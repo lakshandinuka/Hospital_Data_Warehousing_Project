@@ -1,0 +1,1000 @@
+Record_ID,Patient_ID,Age,Room_ID,Treatment_Start_Date ,Treatment_End_Date,Response,Description
+1,229,18,200,1/8/2017,12/17/2018,N,"Labyrinthitis, bilateral"
+2,119,24,201,6/23/2017,2/26/2018,N,"Abrasion, left knee, subsequent encounter"
+3,135,67,202,1/13/2017,7/25/2018,N,"Blister (nonthermal) of breast, left breast, initial encounter"
+4,71,58,203,10/21/2017,2/14/2018,N,"Stepmother, perpetrator of maltreatment and neglect"
+5,314,19,204,1/18/2018,10/2/2018,Y,"Poisoning by, adverse effect of and underdosing of drugs affecting uric acid metabolism"
+6,951,16,205,9/22/2017,11/25/2018,Y,"Displaced fracture of pisiform, right wrist, subsequent encounter for fracture with routine healing"
+7,424,29,206,6/13/2017,5/9/2018,N,Nondisplaced avulsion fracture of tuberosity of unspecified calcaneus
+8,4,28,207,8/6/2017,7/23/2018,Y,"Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs, subsequent encounter"
+9,867,14,208,8/25/2017,3/17/2018,N,"Lymphocyte depleted Hodgkin lymphoma, intrathoracic lymph nodes"
+10,150,26,209,12/26/2017,2/25/2018,Y,Minor laceration of pancreas
+11,273,43,210,6/20/2017,12/29/2018,N,Encounter for screening for malignant neoplasm of bladder
+12,109,7,211,1/11/2017,7/31/2018,Y,Encounter for mental health services for child abuse problems
+13,46,72,212,12/27/2017,1/31/2018,N,"Traumatic rupture of volar plate of unspecified finger at metacarpophalangeal and interphalangeal joint, sequela"
+14,778,68,1,4/7/2017,8/25/2018,Y,"Fistula, other specified site"
+15,186,42,2,9/25/2017,5/25/2018,Y,"Maternal care for Anti-A sensitization, second trimester, fetus 1"
+16,190,84,3,1/11/2017,8/18/2018,Y,"Minor laceration of femoral vein at hip and thigh level, unspecified leg, initial encounter"
+17,370,39,4,6/10/2017,10/31/2018,N,"Hemiplegic migraine, intractable, without status migrainosus"
+18,514,18,5,11/30/2017,12/11/2018,Y,"Traumatic compartment syndrome of right lower extremity, sequela"
+19,689,7,6,4/4/2017,2/24/2018,Y,"Other osteoporosis with current pathological fracture, right ankle and foot, subsequent encounter for fracture with delayed healing"
+20,919,74,7,10/3/2017,12/2/2018,N,"Unspecified injury of flexor muscle, fascia and tendon of left index finger at wrist and hand level, sequela"
+21,928,21,8,12/8/2017,7/16/2018,N,"Poisoning by salicylates, assault"
+22,963,19,9,1/22/2018,1/11/2018,Y,"Family history of malignant neoplasm, unspecified"
+23,703,37,10,9/23/2017,7/13/2018,N,"Poisoning by, adverse effect of and underdosing of loop [high-ceiling] diuretics"
+24,416,37,11,7/17/2017,4/5/2018,Y,"Nondisplaced fracture of base of neck of left femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+25,121,53,12,6/9/2017,3/7/2018,N,Traumatic rupture of collateral ligament of right wrist
+26,576,50,13,1/10/2017,12/29/2018,N,"Unspecified open wound, left thigh, sequela"
+27,823,49,14,6/4/2017,12/8/2018,N,"Poisoning by, adverse effect of and underdosing of emollients, demulcents and protectants"
+28,179,54,15,12/25/2017,12/11/2018,Y,Alcohol abuse with intoxication delirium
+29,777,9,16,1/23/2017,1/28/2018,N,"Displaced fracture of right tibial tuberosity, sequela"
+30,839,46,17,4/2/2017,6/30/2018,Y,"Puncture wound without foreign body of unspecified external genital organs, male, subsequent encounter"
+31,61,74,18,5/27/2017,12/14/2018,Y,"Displacement of other bone devices, implants and grafts, sequela"
+32,884,73,19,5/27/2017,5/10/2018,N,"Poisoning by diagnostic agents, undetermined"
+33,164,70,20,11/26/2017,3/3/2018,Y,Tuberculous iridocyclitis
+34,488,73,21,3/16/2017,12/8/2018,Y,"Type III traumatic spondylolisthesis of third cervical vertebra, subsequent encounter for fracture with nonunion"
+35,978,48,22,4/10/2017,3/31/2018,Y,"ABO incompatibility with delayed hemolytic transfusion reaction, sequela"
+36,804,8,23,5/25/2017,4/25/2018,Y,Unspecified injury of left eye and orbit
+37,156,46,24,7/16/2017,7/6/2018,N,"Complete traumatic metacarpophalangeal amputation of left thumb, subsequent encounter"
+38,815,32,25,6/27/2017,2/6/2018,Y,Nonfamilial hypogammaglobulinemia
+39,44,31,26,2/9/2017,9/18/2018,N,Other water transport accident
+40,980,13,27,12/15/2017,4/23/2018,Y,"Accidental discharge of airgun, subsequent encounter"
+41,335,78,28,5/13/2017,8/27/2018,N,"Traumatic rupture of left ear drum, sequela"
+42,933,74,29,3/2/2017,12/26/2018,N,Laceration without foreign body of unspecified finger without damage to nail
+43,999,7,30,11/13/2017,2/17/2018,Y,"Other specific arthropathies, not elsewhere classified, left hip"
+44,461,72,31,12/6/2017,4/3/2018,N,Partial traumatic transphalangeal amputation of unspecified finger
+45,296,47,32,10/20/2017,6/13/2018,N,"Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb"
+46,670,90,33,8/27/2017,3/7/2018,Y,"Burn of unspecified degree of unspecified ear [any part, except ear drum], subsequent encounter"
+47,594,42,34,6/26/2017,6/14/2018,Y,"Puncture wound with foreign body of unspecified cheek and temporomandibular area, initial encounter"
+48,281,54,35,11/17/2017,12/11/2018,N,"Nondisplaced transverse fracture of shaft of right tibia, subsequent encounter for closed fracture with delayed healing"
+49,590,60,36,5/1/2017,11/25/2018,Y,"Unequal limb length (acquired), tibia and fibula"
+50,811,70,37,6/25/2017,3/27/2018,N,"Melanocytic nevi of unspecified eyelid, including canthus"
+51,188,72,38,2/1/2017,11/20/2018,Y,"Poisoning by 4-Aminophenol derivatives, intentional self-harm"
+52,744,17,39,9/24/2017,11/23/2018,N,"Other fracture of right lesser toe(s), subsequent encounter for fracture with delayed healing"
+53,188,39,40,12/13/2017,10/26/2018,Y,"Activity, rough housing and horseplay"
+54,269,84,41,6/14/2017,7/15/2018,Y,"Varus deformity, not elsewhere classified, ankle"
+55,327,80,42,3/12/2017,10/1/2018,N,"Pedal cyclist (driver) (passenger) injured in unspecified nontraffic accident, initial encounter"
+56,336,55,43,4/16/2017,3/10/2018,Y,"Motorcycle driver injured in collision with pedestrian or animal in traffic accident, subsequent encounter"
+57,758,68,44,12/17/2017,6/27/2018,Y,"Unspecified superficial injuries of breast, right breast, initial encounter"
+58,87,70,45,1/30/2017,1/21/2018,Y,Burn with resulting rupture and destruction of eyeball
+59,841,11,46,3/29/2017,1/11/2018,N,"Nondisplaced comminuted fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II"
+60,488,70,47,4/2/2017,10/19/2018,N,"Cysticercosis, unspecified"
+61,330,38,48,1/20/2017,10/8/2018,Y,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site
+62,41,11,49,11/11/2017,3/4/2018,Y,Abrasion of wrist
+63,223,18,50,7/20/2017,10/9/2018,N,Adjustment disorders
+64,753,26,51,6/11/2017,7/2/2018,N,"Maternal care for intrauterine death, not applicable or unspecified"
+65,447,83,52,5/13/2017,12/27/2018,N,Contact with and (suspected) exposure to unspecified communicable disease
+66,212,36,53,9/3/2017,9/22/2018,Y,"Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites"
+67,66,20,54,6/11/2017,2/25/2018,Y,Personal history of other venous thrombosis and embolism
+68,880,68,55,8/25/2017,5/6/2018,Y,"Acute hematogenous osteomyelitis, right humerus"
+69,286,79,56,11/19/2017,1/14/2018,N,Enlargement of orbit
+70,489,35,57,3/27/2017,11/12/2018,Y,"Laceration with foreign body of left little finger without damage to nail, subsequent encounter"
+71,151,22,58,5/3/2017,4/4/2018,Y,"Secondary osteoarthritis, unspecified hand"
+72,718,5,59,6/18/2017,4/5/2018,N,"Other osteonecrosis, right femur"
+73,406,30,60,5/18/2017,5/17/2018,Y,"Jumping or diving into swimming pool striking bottom causing drowning and submersion, initial encounter"
+74,431,66,61,11/24/2017,12/7/2018,N,Other viral agents as the cause of diseases classified elsewhere
+75,634,52,62,7/22/2017,4/28/2018,Y,"Infantile and juvenile nuclear cataract, unspecified eye"
+76,76,53,63,1/22/2018,2/18/2018,N,NIHSS score 11
+77,191,87,64,6/5/2017,9/3/2018,N,"Other displaced fracture of lower end of right humerus, sequela"
+78,348,39,65,1/1/2017,11/20/2018,Y,"Other mechanical complication of femoral arterial graft (bypass), initial encounter"
+79,946,36,66,9/15/2017,3/2/2018,N,"Displaced fracture of neck of scapula, right shoulder, initial encounter for closed fracture"
+80,222,85,67,4/29/2017,8/12/2018,N,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis
+81,688,89,68,2/24/2017,7/30/2018,N,"Alzheimer's disease, unspecified"
+82,891,16,69,8/10/2017,3/22/2018,N,"Corrosion of first degree of unspecified knee, subsequent encounter"
+83,734,58,70,8/23/2017,2/15/2018,Y,Other specified disorders of male genital organs
+84,480,53,71,1/23/2017,11/28/2018,N,"Torus fracture of upper end of unspecified tibia, sequela"
+85,695,35,72,6/23/2017,9/12/2018,Y,Breakdown (mechanical) of indwelling urethral catheter
+86,83,51,73,3/26/2017,1/31/2018,Y,"Laceration with foreign body of right thumb with damage to nail, sequela"
+87,318,63,74,4/22/2017,4/30/2018,N,"Unspecified fracture of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+88,898,65,75,3/30/2017,12/30/2018,N,Laparoscopic surgical procedure converted to open procedure
+89,906,43,76,11/5/2017,12/11/2018,N,Alcohol dependence with alcohol-induced sleep disorder
+90,262,89,77,12/2/2017,9/17/2018,Y,"Third [oculomotor] nerve palsy, left eye"
+91,265,56,78,4/7/2017,3/30/2018,N,"Salter-Harris Type IV physeal fracture of upper end of left tibia, subsequent encounter for fracture with nonunion"
+92,215,10,79,1/6/2018,11/10/2018,Y,"Person on outside of car injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+93,800,20,80,4/14/2017,10/9/2018,Y,"Burn of unspecified degree of female genital region, subsequent encounter"
+94,932,83,81,1/26/2017,11/5/2018,N,Burn of third degree of unspecified elbow
+95,583,22,82,7/19/2017,12/2/2018,Y,"Salter-Harris Type III physeal fracture of lower end of humerus, unspecified arm, initial encounter for closed fracture"
+96,233,71,83,10/12/2017,2/10/2018,N,Partial traumatic transphalangeal amputation of right index finger
+97,375,24,84,5/8/2017,3/26/2018,N,"Puncture wound with foreign body of unspecified elbow, subsequent encounter"
+98,889,12,85,1/7/2018,11/26/2018,N,Unspecified malignant neoplasm of skin of other and unspecified parts of face
+99,684,72,86,3/17/2017,8/21/2018,N,"Hemorrhage due to nervous system prosthetic devices, implants and grafts"
+100,936,16,87,12/5/2017,10/19/2018,Y,"Nondisplaced supracondylar fracture with intracondylar extension of lower end of right femur, sequela"
+101,548,39,88,1/28/2018,10/5/2018,Y,"Nondisplaced fracture (avulsion) of lateral epicondyle of unspecified humerus, subsequent encounter for fracture with malunion"
+102,370,61,89,11/9/2017,4/19/2018,N,Opioid dependence with opioid-induced sleep disorder
+103,65,36,90,3/22/2017,1/10/2018,N,"Injury of radial nerve at upper arm level, right arm, subsequent encounter"
+104,36,23,91,9/22/2017,6/6/2018,Y,NIHSS score 36
+105,953,84,92,11/4/2017,2/19/2018,N,"Torus fracture of upper end of left ulna, subsequent encounter for fracture with malunion"
+106,394,41,93,1/18/2017,7/19/2018,Y,"Term delivery with preterm labor, unspecified trimester, other fetus"
+107,819,84,94,6/18/2017,8/9/2018,Y,"Lead-induced gout, multiple sites"
+108,442,51,95,9/16/2017,7/26/2018,N,Unspecified corneal deposit
+109,13,83,96,9/5/2017,5/8/2018,N,Burn of unspecified degree of chin
+110,117,79,97,7/1/2017,9/26/2018,N,Unspecified subluxation of right wrist and hand
+111,543,20,98,11/18/2017,12/15/2018,Y,Ring or other jewelry causing external constriction
+112,355,9,320,6/29/2017,11/8/2018,N,"Poisoning by, adverse effect of and underdosing of other antidysrhythmic drugs, not elsewhere classified"
+113,650,75,321,7/18/2017,4/20/2018,N,"Person boarding or alighting a heavy transport vehicle injured in collision with pedal cycle while boarding or alighting, subsequent encounter"
+114,690,57,322,8/2/2017,10/5/2018,Y,"Unspecified dislocation of right foot, initial encounter"
+115,217,52,323,2/21/2017,4/10/2018,N,Unspecified physeal fracture of phalanx of toe
+116,801,71,324,5/21/2017,4/23/2018,Y,"Burn of third degree of multiple left fingers (nail), including thumb, initial encounter"
+117,621,49,325,1/28/2018,4/26/2018,N,"Nondisplaced fracture of coronoid process of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+118,960,49,326,9/8/2017,12/18/2018,N,"Dislocation of proximal interphalangeal joint of unspecified finger, subsequent encounter"
+119,147,14,327,7/4/2017,10/9/2018,Y,"Poisoning by unspecified antidepressants, undetermined, initial encounter"
+120,312,73,328,5/11/2017,7/17/2018,Y,"Unspecified fracture of lower end of left ulna, subsequent encounter for open fracture type I or II with delayed healing"
+121,786,35,329,9/12/2017,8/1/2018,Y,"Decreased fetal movements, third trimester, other fetus"
+122,569,46,195,5/24/2017,5/17/2018,N,Congenital methemoglobinemia
+123,226,84,196,10/25/2017,9/2/2018,Y,"Nondisplaced fracture of medial phalanx of left middle finger, subsequent encounter for fracture with nonunion"
+124,546,46,197,9/2/2017,9/10/2018,Y,"Unspecified subluxation of left hip, subsequent encounter"
+125,207,56,198,2/19/2017,8/26/2018,N,Primary amenorrhea
+126,592,86,199,1/8/2018,6/22/2018,Y,"Brown-Sequard syndrome at C6 level of cervical spinal cord, initial encounter"
+127,309,74,359,5/21/2017,12/13/2018,Y,"Alcohol use, unspecified with intoxication delirium"
+128,26,89,360,1/11/2017,9/19/2018,Y,Pregnancy related renal disease
+129,520,79,361,8/8/2017,6/23/2018,N,Other specified injuries of unspecified ankle
+130,182,59,362,4/11/2017,11/3/2018,N,"Serous detachment of retinal pigment epithelium, bilateral"
+131,324,51,363,4/5/2017,12/11/2018,N,Glaucoma suspect
+132,953,66,364,11/28/2017,9/5/2018,Y,Pingueculitis
+133,513,54,365,11/17/2017,5/14/2018,N,"Unspecified fracture of lower end of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+134,955,80,366,1/20/2017,10/9/2018,N,"Coma scale, eyes open, never, at arrival to emergency department"
+135,167,63,367,1/21/2017,7/16/2018,Y,Other specified disorders of tympanic membrane
+136,627,60,368,10/14/2017,1/16/2018,N,"Nondisplaced fracture of base of neck of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+137,525,48,369,7/19/2017,4/30/2018,N,Sprain of medial collateral ligament of knee
+138,546,28,370,3/16/2017,5/20/2018,Y,Other disorders of bone development and growth
+139,917,72,371,12/30/2017,2/19/2018,N,"Unspecified injury of diaphragm, initial encounter"
+140,454,44,372,9/10/2017,10/28/2018,N,"Displaced unspecified fracture of left great toe, initial encounter for open fracture"
+141,65,34,373,12/22/2017,4/20/2018,Y,"Unspecified open wound of abdominal wall, left lower quadrant with penetration into peritoneal cavity, subsequent encounter"
+142,359,17,374,9/24/2017,4/3/2018,N,"Military operations involving other destruction of aircraft, military personnel"
+143,435,75,375,6/13/2017,7/20/2018,Y,"Other ossification of muscle, right shoulder"
+144,483,72,376,9/29/2017,9/30/2018,Y,"Posterior displaced fracture of sternal end of left clavicle, subsequent encounter for fracture with nonunion"
+145,713,50,377,1/5/2017,7/2/2018,Y,"Other physeal fracture of lower end of ulna, left arm, initial encounter for closed fracture"
+146,88,13,378,7/24/2017,6/6/2018,N,"Unspecified open wound of abdominal wall, right lower quadrant with penetration into peritoneal cavity, subsequent encounter"
+147,890,12,379,10/5/2017,5/20/2018,Y,"Maternal care for known or suspected placental insufficiency, third trimester, not applicable or unspecified"
+148,296,18,380,10/8/2017,6/4/2018,N,"Poisoning by mixed bacterial vaccines without a pertussis component, accidental (unintentional), initial encounter"
+149,884,32,381,7/3/2017,1/26/2018,Y,Secondary mast cell activation
+150,276,7,400,10/23/2017,5/12/2018,Y,"Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture"
+151,888,46,401,3/15/2017,7/18/2018,Y,"Person boarding or alighting from bus injured in collision with fixed or stationary object, sequela"
+152,749,23,402,1/15/2018,12/22/2018,Y,"Gestational diabetes mellitus in the puerperium, unspecified control"
+153,881,38,403,1/28/2018,10/17/2018,N,Rheumatic mitral stenosis with insufficiency
+154,581,76,404,8/27/2017,9/17/2018,Y,"Prolymphocytic leukemia of T-cell type, in relapse"
+155,199,43,405,2/14/2017,11/15/2018,Y,Neoplasm of uncertain behavior of rectum
+156,904,31,406,12/23/2017,12/16/2018,Y,Phlebitis of portal vein
+157,176,18,407,1/17/2018,12/23/2018,N,"Other articular cartilage disorders, left foot"
+158,36,29,408,1/20/2017,6/9/2018,Y,"Underdosing of anticholinesterase agents, subsequent encounter"
+159,169,10,409,8/24/2017,3/7/2018,Y,"Chronic mucoid otitis media, left ear"
+160,393,87,410,4/19/2017,7/31/2018,N,Postthrombotic syndrome with inflammation of unspecified lower extremity
+161,713,29,411,1/10/2018,3/8/2018,N,Malignant neoplasm of other specified female genital organs
+162,610,59,412,11/25/2017,8/3/2018,N,Alcohol dependence with intoxication delirium
+163,437,85,413,1/9/2018,7/20/2018,N,"Nondisplaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with routine healing"
+164,317,52,414,8/2/2017,7/20/2018,Y,Supracondylar fracture with intracondylar extension of lower end of femur
+165,294,11,415,6/5/2017,1/29/2018,Y,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right dominant side
+166,442,60,416,5/25/2017,8/26/2018,Y,"Pedestrian with other conveyance injured in collision with two- or three-wheeled motor vehicle, unspecified whether traffic or nontraffic accident, sequela"
+167,555,14,417,11/13/2017,10/17/2018,Y,Aortopulmonary septal defect
+168,254,24,418,7/13/2017,12/16/2018,N,Candidal cheilitis
+169,806,89,419,5/13/2017,12/21/2018,N,Hemicrania continua
+170,510,59,420,12/8/2017,10/21/2018,Y,"Crushing injury of right middle finger, subsequent encounter"
+171,335,72,421,10/2/2017,3/4/2018,Y,"Wedge compression fracture of T11-T12 vertebra, initial encounter for closed fracture"
+172,882,42,422,7/14/2017,10/9/2018,Y,"Puncture wound without foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity"
+173,806,60,423,12/4/2017,5/4/2018,N,"Infection and inflammatory reaction due to cranial or spinal infusion catheter, subsequent encounter"
+174,118,10,424,4/25/2017,8/18/2018,N,Disseminated cryptococcosis
+175,777,75,425,12/5/2017,7/26/2018,Y,"Corrosion of second degree of left axilla, subsequent encounter"
+176,486,47,426,11/29/2017,7/13/2018,N,"Toxic effect of venom of gila monster, undetermined"
+177,176,50,427,5/29/2017,4/30/2018,Y,"Fibrosis due to nervous system prosthetic devices, implants and grafts, sequela"
+178,423,13,428,4/14/2017,5/12/2018,N,"Minor laceration of left pulmonary blood vessels, initial encounter"
+179,607,59,429,6/27/2017,12/20/2018,N,"Other osteonecrosis, multiple sites"
+180,975,82,430,5/4/2017,2/26/2018,Y,"Displaced simple supracondylar fracture without intercondylar fracture of unspecified humerus, initial encounter for open fracture"
+181,955,25,431,3/16/2017,9/26/2018,N,"Toxic effect of unspecified pesticide, accidental (unintentional), initial encounter"
+182,360,18,432,12/23/2017,11/12/2018,N,"Unspecified injury of other specified muscles, fascia and tendons at thigh level, left thigh, initial encounter"
+183,469,7,433,11/23/2017,2/6/2018,N,Heat exposure on board passenger ship
+184,97,86,434,3/1/2017,7/8/2018,N,Subluxation of interphalangeal joint of unspecified great toe
+185,225,65,435,5/26/2017,12/20/2018,N,Other specified injury of thoracic aorta
+186,235,50,436,8/7/2017,12/29/2018,Y,"Partial traumatic metacarpophalangeal amputation of left ring finger, sequela"
+187,727,6,437,7/4/2017,7/25/2018,Y,"Other injury of flexor muscle, fascia and tendon of unspecified finger at wrist and hand level"
+188,715,40,438,1/26/2017,8/16/2018,Y,"Crushing injury of unspecified hip with thigh, initial encounter"
+189,94,49,439,1/28/2017,11/9/2018,N,"Acquired clawfoot, unspecified foot"
+190,592,54,440,3/29/2017,12/20/2018,Y,Person on outside of heavy transport vehicle injured in collision with railway train or railway vehicle in nontraffic accident
+191,999,46,441,6/17/2017,4/19/2018,Y,"Corrosion of unspecified degree of shoulder and upper limb, except wrist and hand, unspecified site, initial encounter"
+192,928,28,442,9/3/2017,3/16/2018,N,Unspecified occupant of bus injured in collision with heavy transport vehicle or bus in nontraffic accident
+193,508,27,443,2/8/2017,12/5/2018,N,"Other nondisplaced fracture of first cervical vertebra, initial encounter for closed fracture"
+194,524,43,444,11/23/2017,7/12/2018,N,"Nondisplaced fracture of base of other metacarpal bone, sequela"
+195,969,22,445,11/14/2017,5/30/2018,N,"Driver of three-wheeled motor vehicle injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter"
+196,943,38,446,5/20/2017,2/27/2018,Y,"Sudden visual loss, bilateral"
+197,638,39,447,8/24/2017,5/27/2018,N,Cutaneous abscess of perineum
+198,623,79,448,10/12/2017,10/3/2018,Y,"Displaced longitudinal fracture of right patella, subsequent encounter for closed fracture with delayed healing"
+199,119,80,449,1/30/2018,1/19/2018,N,"Unspecified fracture of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+200,427,44,450,8/28/2017,5/17/2018,Y,"Nondisplaced fracture of body of right calcaneus, sequela"
+201,382,68,451,2/21/2017,3/2/2018,N,"Poisoning by hemostatic drug, assault, sequela"
+202,818,5,452,9/10/2017,7/22/2018,N,"Contusion, laceration, and hemorrhage of cerebellum without loss of consciousness"
+203,296,58,453,1/26/2018,6/7/2018,N,Herpesviral keratitis
+204,394,65,454,3/29/2017,11/1/2018,N,Displaced supracondylar fracture without intracondylar extension of lower end of left femur
+205,878,87,455,2/23/2017,10/17/2018,N,"Other calcification of muscle, unspecified shoulder"
+206,345,13,456,1/21/2018,8/24/2018,N,"Stress fracture, left toe(s), subsequent encounter for fracture with malunion"
+207,537,55,457,2/27/2017,3/3/2018,N,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, unspecified trimester"
+208,922,16,458,9/24/2017,1/20/2018,Y,Neoplasm of uncertain behavior of pineal gland
+209,881,70,459,1/18/2017,1/9/2018,N,Apraxia following cerebral infarction
+210,919,36,460,12/1/2017,7/6/2018,N,Embolism following failed attempted termination of pregnancy
+211,298,7,461,11/27/2017,12/5/2018,Y,"Toxic effect of beryllium and its compounds, undetermined, sequela"
+212,144,59,462,1/31/2018,7/17/2018,Y,"Nondisplaced fracture of lateral malleolus of unspecified fibula, subsequent encounter for closed fracture with nonunion"
+213,882,7,463,5/19/2017,2/25/2018,Y,"Other injury of unspecified muscle, fascia and tendon at shoulder and upper arm level, unspecified arm, initial encounter"
+214,126,24,464,5/12/2017,5/22/2018,N,"Unspecified injury to unspecified level of lumbar spinal cord, initial encounter"
+215,801,58,465,1/22/2018,12/4/2018,Y,"Unstable burst fracture of fourth lumbar vertebra, initial encounter for closed fracture"
+216,254,15,466,2/22/2017,12/17/2018,N,Subluxation of unspecified lumbar vertebra
+217,936,32,467,4/28/2017,4/8/2018,Y,"Other fracture of head and neck of unspecified femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+218,102,62,468,5/24/2017,1/18/2018,N,"Burn of second degree of unspecified toe(s) (nail), sequela"
+219,199,38,469,6/2/2017,1/8/2018,N,Other specified injuries of unspecified thigh
+220,999,45,470,8/24/2017,11/29/2018,Y,"Unspecified injury of unspecified external jugular vein, initial encounter"
+221,871,40,471,4/4/2017,12/26/2018,Y,Contusion and laceration of left cerebrum with loss of consciousness of 1 hour to 5 hours 59 minutes
+222,934,16,472,5/28/2017,11/30/2018,N,"Contact with hot heating appliances, radiators and pipes, subsequent encounter"
+223,203,43,473,1/4/2018,6/28/2018,N,"Unspecified abdominal hernia with obstruction, without gangrene"
+224,211,66,474,1/30/2017,6/1/2018,N,"Age-related osteoporosis with current pathological fracture, vertebra(e), subsequent encounter for fracture with routine healing"
+225,807,46,475,7/23/2017,9/5/2018,N,"Legal intervention involving other blunt objects, bystander injured, subsequent encounter"
+226,131,34,476,5/30/2017,8/8/2018,Y,Burn of second degree of unspecified forearm
+227,661,82,477,1/18/2018,1/7/2018,N,"Displaced fracture of body of scapula, right shoulder, subsequent encounter for fracture with malunion"
+228,151,17,478,4/4/2017,9/14/2018,N,Fracture of unspecified phalanx of right index finger
+229,377,64,479,8/27/2017,12/5/2018,N,"Poisoning by digestants, intentional self-harm, subsequent encounter"
+230,438,14,480,1/28/2018,7/15/2018,Y,Other contact with rat
+231,22,58,481,6/11/2017,6/12/2018,Y,"Partial traumatic transphalangeal amputation of left little finger, sequela"
+232,541,57,482,6/21/2017,7/30/2018,N,Diffuse acute (reversible) ischemia of small intestine
+233,583,84,483,6/22/2017,10/19/2018,N,Meningismus
+234,244,63,484,12/18/2017,3/7/2018,N,"Leakage of graft of urinary organ, subsequent encounter"
+235,314,65,485,6/14/2017,1/12/2018,Y,"Other traumatic nondisplaced spondylolisthesis of sixth cervical vertebra, sequela"
+236,343,47,486,10/23/2017,1/20/2018,Y,"Open bite of right thumb with damage to nail, sequela"
+237,910,31,487,11/12/2017,11/24/2018,N,"Displaced segmental fracture of shaft of ulna, unspecified arm, subsequent encounter for open fracture type I or II with delayed healing"
+238,95,71,488,3/29/2017,10/15/2018,N,"Acquired clawfoot, unspecified foot"
+239,913,60,489,6/13/2017,10/3/2018,Y,"Osteitis deformans in neoplastic diseases, left hand"
+240,754,11,490,3/21/2017,10/22/2018,N,Exudative retinopathy
+241,534,88,491,4/17/2017,10/19/2018,Y,"Breakdown (mechanical) of implanted urinary sphincter, initial encounter"
+242,254,41,492,3/20/2017,6/1/2018,N,"Nondisplaced segmental fracture of shaft of humerus, right arm"
+243,476,77,493,10/21/2017,12/6/2018,N,"Nondisplaced articular fracture of head of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+244,293,59,494,12/11/2017,10/8/2018,N,"Toxic effect of unspecified gases, fumes and vapors, accidental (unintentional), sequela"
+245,350,56,495,3/4/2017,7/21/2018,Y,Blepharochalasis right upper eyelid
+246,282,7,496,9/15/2017,5/4/2018,N,"Nondisplaced comminuted fracture of shaft of unspecified tibia, sequela"
+247,475,45,300,5/1/2017,7/31/2018,N,"Displaced fracture of base of fifth metacarpal bone, right hand, subsequent encounter for fracture with nonunion"
+248,538,37,301,7/13/2017,3/22/2018,Y,"Displaced supracondylar fracture without intracondylar extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+249,573,67,302,12/15/2017,3/25/2018,Y,Insufficient social insurance and welfare support
+250,507,70,303,12/27/2017,10/30/2018,Y,"Stable burst fracture of T7-T8 vertebra, subsequent encounter for fracture with routine healing"
+251,817,8,304,9/17/2017,7/24/2018,N,Dislocation of distal interphalangeal joint of left ring finger
+252,715,68,305,5/28/2017,12/17/2018,N,Malignant neoplasm of unspecified optic nerve
+253,812,50,306,5/17/2017,4/14/2018,Y,"Laceration of unspecified part of pancreas, unspecified degree, subsequent encounter"
+254,829,59,307,12/31/2017,4/12/2018,N,"Other fracture of left patella, subsequent encounter for closed fracture with malunion"
+255,517,77,308,4/12/2017,5/9/2018,N,"Unspecified fracture of upper end of left humerus, sequela"
+256,110,59,309,3/29/2017,7/2/2018,Y,"Supervision of young multigravida, third trimester"
+257,879,11,310,6/23/2017,4/2/2018,Y,"Maternal care for (suspected) chromosomal abnormality in fetus, fetus 4"
+258,494,88,311,8/26/2017,2/21/2018,N,"Adverse effect of electrolytic, caloric and water-balance agents, initial encounter"
+259,30,40,312,9/16/2017,4/8/2018,N,"Poisoning by other agents primarily acting on the respiratory system, intentional self-harm, subsequent encounter"
+260,426,25,313,12/20/2017,6/25/2018,Y,Gastrointestinal stromal tumor
+261,623,62,314,4/1/2017,1/19/2018,N,Chronic dacryocystitis
+262,862,81,315,7/6/2017,7/30/2018,N,"Legal intervention involving other specified means, law enforcement official injured, initial encounter"
+263,480,48,316,2/28/2017,6/24/2018,Y,"Nondisplaced spiral fracture of shaft of right femur, initial encounter for closed fracture"
+264,795,10,317,7/5/2017,6/2/2018,N,"Presence of artificial limb (complete) (partial), unspecified"
+265,923,35,318,11/9/2017,3/22/2018,N,"Unspecified injury of right carotid artery, initial encounter"
+266,28,6,242,12/13/2017,8/12/2018,Y,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg"
+267,551,68,243,10/17/2017,9/22/2018,N,"Toxic effect of thallium, undetermined"
+268,516,16,244,1/9/2018,9/12/2018,N,Basal cell carcinoma of skin of unspecified parts of face
+269,793,37,245,7/3/2017,3/25/2018,Y,"Displaced comminuted fracture of shaft of left fibula, subsequent encounter for closed fracture with delayed healing"
+270,314,40,246,11/29/2017,5/26/2018,Y,Other atrophic disorders of skin
+271,469,24,247,2/20/2017,11/16/2018,N,"Breakdown (mechanical) of umbrella device, initial encounter"
+272,165,33,248,2/16/2017,8/11/2018,N,"Corrosion of third degree of right palm, subsequent encounter"
+273,695,88,249,6/22/2017,5/11/2018,N,"Unspecified fracture of shaft of left tibia, subsequent encounter for closed fracture with routine healing"
+274,390,7,250,6/26/2017,4/6/2018,N,"Other sprain of left elbow, subsequent encounter"
+275,126,60,251,1/13/2017,9/14/2018,Y,"External constriction, right lesser toe(s), sequela"
+276,701,53,252,1/20/2018,5/23/2018,Y,Nondisplaced comminuted fracture of shaft of left femur
+277,217,10,253,7/22/2017,12/19/2018,Y,Ingrowing nail
+278,335,69,254,3/25/2017,1/29/2018,N,"Toxic effect of aflatoxin, assault, initial encounter"
+279,980,13,255,6/26/2017,7/8/2018,N,"Other specified injuries of pharynx and cervical esophagus, sequela"
+280,95,8,256,1/9/2018,12/21/2018,N,"Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites"
+281,702,81,257,2/3/2017,12/24/2018,N,"Newborn light for gestational age, 1750-1999 grams"
+282,592,71,258,3/4/2017,5/8/2018,N,"Other disorders of optic disc, unspecified eye"
+283,531,35,259,2/16/2017,5/17/2018,Y,Nontraumatic compartment syndrome of abdomen
+284,198,52,260,4/25/2017,10/22/2018,N,"Other specific arthropathies, not elsewhere classified, right hand"
+285,299,49,261,7/26/2017,4/8/2018,Y,"Enteropathic arthropathies, unspecified elbow"
+286,545,41,262,1/4/2017,11/27/2018,Y,"Displaced transverse fracture of shaft of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+287,722,54,263,6/30/2017,11/7/2018,N,Angiodysplasia of colon with hemorrhage
+288,422,7,264,12/23/2017,2/4/2018,Y,"Other specified injury of axillary artery, left side, initial encounter"
+289,370,20,265,5/4/2017,4/19/2018,Y,"Poisoning by, adverse effect of and underdosing of antithrombotic drugs"
+290,680,63,266,11/20/2017,1/26/2018,N,"Primary blast injury of bronchus, bilateral, initial encounter"
+291,816,8,267,5/2/2017,8/15/2018,N,"Laceration of other part of small intestine, sequela"
+292,335,76,268,7/12/2017,4/12/2018,Y,"Displaced longitudinal fracture of right patella, subsequent encounter for closed fracture with routine healing"
+293,374,46,269,1/26/2017,10/11/2018,N,Injury of internal jugular vein
+294,336,39,270,1/21/2018,1/30/2018,Y,Azoospermia due to radiation
+295,644,14,271,12/17/2017,3/10/2018,N,"Salter-Harris Type I physeal fracture of lower end of ulna, right arm, subsequent encounter for fracture with routine healing"
+296,526,56,272,5/23/2017,1/6/2018,Y,"Poisoning by other hormone antagonists, assault, sequela"
+297,457,80,273,11/13/2017,5/5/2018,Y,"Poisoning by, adverse effect of and underdosing of carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics"
+298,520,80,274,7/2/2017,12/1/2018,N,Pregnancy related renal disease
+299,69,50,275,6/3/2017,4/4/2018,N,"Nondisplaced transverse fracture of shaft of right femur, subsequent encounter for closed fracture with malunion"
+300,187,5,276,12/26/2017,9/29/2018,N,"Galeazzi's fracture of unspecified radius, subsequent encounter for closed fracture with nonunion"
+301,324,84,277,3/17/2017,11/16/2018,Y,"Adverse effect of vitamins, initial encounter"
+302,504,50,278,12/3/2017,12/6/2018,Y,Displaced fracture of coronoid process of unspecified ulna
+303,594,50,279,7/28/2017,11/18/2018,Y,"Other rupture of muscle (nontraumatic), shoulder"
+304,945,57,280,10/17/2017,9/14/2018,Y,"Other chronic hematogenous osteomyelitis, unspecified femur"
+305,623,36,281,1/29/2017,2/9/2018,Y,"Unspecified open wound of abdominal wall, right upper quadrant without penetration into peritoneal cavity, sequela"
+306,322,90,282,3/7/2017,3/21/2018,N,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity"
+307,746,75,283,12/19/2017,12/22/2018,Y,Pseudobulbar affect
+308,252,89,284,11/29/2017,2/13/2018,N,"Motorcycle passenger injured in collision with other nonmotor vehicle in traffic accident, subsequent encounter"
+309,755,25,285,1/2/2017,1/11/2018,Y,"Velamentous insertion of umbilical cord, unspecified trimester"
+310,52,22,286,5/19/2017,5/27/2018,N,"Displaced fracture of neck of second metacarpal bone, left hand, sequela"
+311,868,73,287,3/16/2017,4/10/2018,N,"Toxic effect of other gases, fumes and vapors"
+312,842,35,288,1/5/2017,4/8/2018,Y,"Embolism due to nervous system prosthetic devices, implants and grafts, sequela"
+313,279,47,289,3/20/2017,8/20/2018,Y,"Colles' fracture of right radius, subsequent encounter for open fracture type I or II with delayed healing"
+314,782,89,290,3/23/2017,3/25/2018,Y,"Contracture of muscle, other site"
+315,740,42,291,4/24/2017,8/31/2018,Y,"Unspecified pedal cyclist injured in collision with other motor vehicles in nontraffic accident, sequela"
+316,216,6,292,8/27/2017,11/13/2018,N,"Superficial foreign body of unspecified elbow, initial encounter"
+317,229,64,293,2/9/2017,12/21/2018,N,"Malignant melanoma of eyelid, including canthus"
+318,572,56,294,4/2/2017,1/25/2018,N,"Injury, poisoning and certain other consequences of external causes complicating the puerperium"
+319,611,35,295,8/29/2017,12/27/2018,N,"Chondromalacia, unspecified wrist"
+320,601,18,296,9/8/2017,12/13/2018,Y,Superficial foreign body of right little finger
+321,400,76,297,7/15/2017,8/6/2018,Y,"Injury of digital nerve of unspecified thumb, initial encounter"
+322,955,59,298,6/8/2017,3/15/2018,Y,"Iris atrophy (essential) (progressive), right eye"
+323,400,82,299,2/11/2017,3/17/2018,Y,"Poisoning by antifungal antibiotics, systemically used, intentional self-harm, sequela"
+324,389,22,300,11/13/2017,10/25/2018,N,"Poisoning by antineoplastic and immunosuppressive drugs, intentional self-harm"
+325,890,63,301,12/9/2017,3/10/2018,N,"Nondisplaced fracture (avulsion) of medial epicondyle of unspecified humerus, initial encounter for closed fracture"
+326,728,25,302,1/7/2018,5/26/2018,Y,"Other sprain of right middle finger, sequela"
+327,253,55,138,9/30/2017,4/22/2018,Y,"Partial traumatic amputation at level between right hip and knee, subsequent encounter"
+328,25,44,139,1/16/2018,1/22/2018,N,"Displaced fracture of right ulna styloid process, initial encounter for open fracture type I or II"
+329,404,78,140,5/19/2017,2/28/2018,Y,"Unspecified injury of left thigh, subsequent encounter"
+330,542,45,141,6/20/2017,9/1/2018,Y,"Fracture of angle of left mandible, sequela"
+331,749,76,142,6/15/2017,1/22/2018,Y,"Strain of other muscles, fascia and tendons at shoulder and upper arm level, right arm, initial encounter"
+332,947,39,143,11/1/2017,8/15/2018,Y,"Toxic effect of other alcohols, accidental (unintentional), subsequent encounter"
+333,195,68,144,8/20/2017,10/25/2018,Y,Traumatic hemorrhage of right cerebrum with loss of consciousness of unspecified duration
+334,646,26,145,2/12/2017,12/20/2018,N,"Breakdown (mechanical) of aortic (bifurcation) graft (replacement), initial encounter"
+335,523,69,146,1/16/2017,6/18/2018,N,Benign neoplasm of renal pelvis
+336,759,74,147,5/30/2017,7/20/2018,N,Salter-Harris Type II physeal fracture of left calcaneus
+337,642,34,148,4/29/2017,11/23/2018,Y,Other spontaneous disruption of posterior cruciate ligament of left knee
+338,496,18,149,1/17/2017,5/31/2018,Y,"Corrosion of third degree of head, face, and neck"
+339,182,44,150,5/24/2017,8/27/2018,N,"Blister (nonthermal), unspecified knee, initial encounter"
+340,209,55,151,9/21/2017,3/28/2018,Y,"Burn of third degree of unspecified lower leg, subsequent encounter"
+341,302,66,152,11/26/2017,1/12/2018,N,"Exposure to other ionizing radiation, subsequent encounter"
+342,325,37,153,12/22/2017,12/27/2018,N,"Complete traumatic amputation of unspecified ear, initial encounter"
+343,992,81,154,10/30/2017,5/9/2018,Y,Severe atrophy of the mandible
+344,383,45,155,5/10/2017,7/28/2018,Y,"Fracture of unspecified part of left clavicle, sequela"
+345,503,23,156,4/6/2017,2/16/2018,N,"Drug use complicating pregnancy, first trimester"
+346,425,18,157,8/10/2017,8/5/2018,N,"Torus fracture of lower end of left ulna, subsequent encounter for fracture with nonunion"
+347,463,37,158,1/21/2017,6/11/2018,Y,Low lying placenta NOS or without hemorrhage
+348,828,43,159,2/3/2017,7/9/2018,N,"Nondisplaced oblique fracture of shaft of humerus, unspecified arm, initial encounter for closed fracture"
+349,820,74,160,4/11/2017,10/7/2018,Y,"Poisoning by other psychodysleptics [hallucinogens], assault, initial encounter"
+350,978,27,161,5/26/2017,4/24/2018,N,"Car occupant (driver) (passenger) injured in other specified transport accidents, subsequent encounter"
+351,249,33,162,1/14/2018,11/23/2018,Y,Acquired absence of eye
+352,734,87,163,6/21/2017,2/12/2018,N,"Unspecified fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+353,137,42,164,9/8/2017,11/24/2018,N,"Unspecified fracture of shaft of unspecified radius, subsequent encounter for closed fracture with malunion"
+354,860,72,165,11/27/2017,11/16/2018,N,"Colles' fracture of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+355,683,30,166,5/21/2017,10/27/2018,Y,"Military operations involving explosion of improvised explosive device [IED], civilian, initial encounter"
+356,142,61,167,9/17/2017,9/18/2018,Y,Other specified multiple gestation with two or more monoamniotic fetuses
+357,802,39,168,4/18/2017,8/18/2018,Y,"Infection and inflammatory reaction due to other urinary catheter, initial encounter"
+358,440,21,169,1/3/2018,9/22/2018,N,"Villonodular synovitis (pigmented), unspecified hip"
+359,554,77,170,7/25/2017,7/24/2018,Y,Puncture wound without foreign body of knee
+360,43,72,171,5/26/2017,11/20/2018,N,"Insect bite (nonvenomous) of throat, initial encounter"
+361,312,56,172,4/22/2017,3/4/2018,N,Supervision of other high risk pregnancies
+362,425,30,173,9/29/2017,10/23/2018,N,"Salter-Harris Type I physeal fracture of phalanx of right toe, sequela"
+363,950,45,174,12/5/2017,4/27/2018,N,"Hit or struck by falling object due to accident to water-skis, subsequent encounter"
+364,550,70,175,9/30/2017,10/22/2018,N,"Other fracture of shaft of radius, right arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+365,23,28,176,10/1/2017,3/16/2018,Y,"Major osseous defect, right humerus"
+366,98,73,177,9/23/2017,4/3/2018,N,"Traumatic cerebral edema with loss of consciousness of 30 minutes or less, initial encounter"
+367,311,78,178,2/23/2017,12/27/2018,Y,Drug-induced aplastic anemia
+368,207,17,179,8/4/2017,9/10/2018,Y,"Gonococcal cystitis and urethritis, unspecified"
+369,21,28,180,1/23/2018,6/28/2018,N,"Puncture wound without foreign body, left lower leg, subsequent encounter"
+370,836,78,181,1/18/2018,7/6/2018,Y,"Failed or difficult intubation for anesthesia during pregnancy, third trimester"
+371,837,89,182,6/3/2017,6/11/2018,Y,Benign neoplasm of unspecified site of unspecified orbit
+372,771,77,183,5/12/2017,8/24/2018,Y,"Unstable burst fracture of third lumbar vertebra, initial encounter for closed fracture"
+373,164,72,184,4/18/2017,10/12/2018,N,"Unspecified injury of other blood vessels of thorax, unspecified side, sequela"
+374,972,24,185,6/18/2017,3/5/2018,N,"Stress fracture, unspecified tibia and fibula, subsequent encounter for fracture with malunion"
+375,534,30,186,6/16/2017,11/3/2018,N,"Unspecified open wound of abdominal wall, left lower quadrant with penetration into peritoneal cavity, initial encounter"
+376,70,25,187,9/24/2017,7/20/2018,Y,Open wound of unspecified buttock
+377,30,5,459,1/7/2018,8/29/2018,Y,"Nondisplaced fracture of distal phalanx of right great toe, initial encounter for closed fracture"
+378,924,82,460,1/1/2017,6/12/2018,N,"Unspecified car occupant injured in collision with unspecified motor vehicles in nontraffic accident, initial encounter"
+379,341,57,461,9/18/2017,2/22/2018,N,"Poisoning by monoamine-oxidase-inhibitor antidepressants, accidental (unintentional), sequela"
+380,150,18,462,12/16/2017,10/23/2018,Y,Malignant neoplasm of vestibule of mouth
+381,407,40,463,6/9/2017,1/27/2018,N,"Displaced fracture of triquetrum [cuneiform] bone, unspecified wrist, subsequent encounter for fracture with malunion"
+382,944,29,464,5/5/2017,9/15/2018,Y,"Melanocytic nevi of upper limb, including shoulder"
+383,710,20,465,5/10/2017,11/29/2018,Y,"Corrosion of first degree of left toe(s) (nail), subsequent encounter"
+384,456,72,466,7/31/2017,2/14/2018,Y,Cicatricial entropion of right upper eyelid
+385,732,64,467,1/30/2018,10/18/2018,Y,"Unspecified slipped upper femoral epiphysis (nontraumatic), left hip"
+386,864,7,468,10/1/2017,8/2/2018,Y,"Other secondary chronic gout, right hip"
+387,702,21,469,9/17/2017,6/28/2018,Y,Displaced transverse fracture of unspecified patella
+388,533,58,470,11/19/2017,5/26/2018,Y,Fusion of spine
+389,656,23,471,11/10/2017,9/15/2018,Y,General paresis
+390,490,74,472,8/2/2017,4/14/2018,N,"Laceration of other blood vessels at hip and thigh level, left leg"
+391,63,58,473,6/20/2017,2/21/2018,Y,External constriction of left thumb
+392,756,64,474,1/4/2018,5/10/2018,N,"Posterior subluxation of proximal end of tibia, unspecified knee"
+393,785,73,475,4/22/2017,12/13/2018,Y,"Pedestrian on skateboard injured in collision with heavy transport vehicle or bus, unspecified whether traffic or nontraffic accident, sequela"
+394,941,72,476,4/26/2017,12/1/2018,Y,"Insect bite (nonvenomous) of left little finger, subsequent encounter"
+395,64,33,477,11/25/2017,1/27/2018,Y,"Laceration of muscle, fascia and tendon of long head of biceps, unspecified arm, subsequent encounter"
+396,99,68,478,9/16/2017,11/10/2018,Y,Occupational exposure to unspecified risk factor
+397,786,72,479,12/15/2017,12/21/2018,N,"Driver of pick-up truck or van injured in collision with heavy transport vehicle or bus in traffic accident, subsequent encounter"
+398,521,32,480,6/4/2017,6/27/2018,Y,"Poisoning by stimulant laxatives, assault, sequela"
+399,354,8,481,5/3/2017,11/23/2018,Y,Subluxation complex (vertebral) of lumbar region
+400,796,76,482,7/4/2017,4/7/2018,Y,Retinal detachments and breaks
+401,224,6,483,1/27/2017,6/12/2018,N,"Osteonecrosis due to previous trauma, unspecified shoulder"
+402,456,43,484,12/6/2017,9/19/2018,N,"Displaced segmental fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing"
+403,412,50,485,2/13/2017,6/25/2018,N,"Nondisplaced spiral fracture of shaft of radius, left arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+404,201,70,486,10/28/2017,9/7/2018,N,"Sprain of interphalangeal joint of left great toe, subsequent encounter"
+405,762,36,487,1/31/2017,8/29/2018,N,Other complications of foreign body accidentally left in body following endoscopic examination
+406,20,27,488,6/5/2017,12/18/2018,N,Unspecified war operations occurring after cessation of hostilities
+407,969,88,489,6/20/2017,3/24/2018,N,Bicornate uterus
+408,791,5,490,5/20/2017,9/4/2018,Y,Car passenger injured in collision with fixed or stationary object in traffic accident
+409,796,55,491,6/7/2017,1/7/2018,N,"Laceration without foreign body of oral cavity, subsequent encounter"
+410,250,12,492,4/1/2017,11/19/2018,N,"Laceration with foreign body of left back wall of thorax without penetration into thoracic cavity, subsequent encounter"
+411,956,46,493,1/23/2018,12/10/2018,Y,"Other injury of right kidney, subsequent encounter"
+412,307,83,494,11/22/2017,9/16/2018,N,Other fall from one level to another
+413,625,25,495,7/14/2017,7/29/2018,Y,Other congenital malformations of breast
+414,614,46,496,7/7/2017,8/31/2018,Y,"Calcium deposit in bursa, unspecified hand"
+415,513,53,497,8/12/2017,5/27/2018,Y,"Focal chorioretinal inflammation, juxtapapillary, right eye"
+416,873,28,498,4/17/2017,2/11/2018,N,Torus fracture of lower end of unspecified humerus
+417,498,59,499,12/5/2017,12/2/2018,Y,Injury of other blood vessels at hip and thigh level
+418,908,9,500,5/5/2017,5/2/2018,Y,"Infective myositis, unspecified site"
+419,628,20,R096,4/28/2017,4/23/2018,Y,"Poisoning by other psychostimulants, accidental (unintentional), subsequent encounter"
+420,436,57,R097,7/14/2017,5/7/2018,N,"Unspecified open wound of left great toe with damage to nail, sequela"
+421,913,80,R098,1/20/2017,9/24/2018,N,"Kayser-Fleischer ring, bilateral"
+422,501,89,R099,3/5/2017,10/29/2018,Y,Drowning and submersion due to falling or jumping from crushed watercraft
+423,199,31,100,7/25/2017,11/14/2018,Y,"Barton's fracture of left radius, subsequent encounter for open fracture type I or II with malunion"
+424,651,37,101,11/12/2017,2/20/2018,Y,"Displaced fracture (avulsion) of lateral epicondyle of right humerus, subsequent encounter for fracture with malunion"
+425,673,78,102,7/27/2017,6/19/2018,Y,"Contusion and laceration of right cerebrum without loss of consciousness, sequela"
+426,252,11,103,1/21/2017,12/29/2018,Y,"Coma scale, best motor response, flexion withdrawal, in the field [EMT or ambulance]"
+427,70,48,104,6/14/2017,4/5/2018,N,Fracture of pisiform
+428,396,43,105,8/12/2017,2/1/2018,N,"Pedestrian with other conveyance injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela"
+429,744,76,106,6/25/2017,12/23/2018,N,Pedestrian on skateboard injured in collision with other nonmotor vehicle in nontraffic accident
+430,49,23,107,12/7/2017,6/18/2018,N,"Drug induced movement disorder, unspecified"
+431,811,42,108,5/29/2017,7/17/2018,Y,"Chronic embolism and thrombosis of axillary vein, bilateral"
+432,934,18,109,8/16/2017,8/14/2018,Y,"Other specified fracture of unspecified acetabulum, initial encounter for closed fracture"
+433,497,6,110,6/27/2017,10/1/2018,N,Type 1 diabetes mellitus with ketoacidosis without coma
+434,518,55,111,5/23/2017,7/10/2018,Y,"Obturator subluxation of left hip, initial encounter"
+435,102,7,112,11/8/2017,11/28/2018,Y,"Other dislocation of unspecified ulnohumeral joint, sequela"
+436,771,78,113,12/20/2017,8/7/2018,Y,Chronic venous hypertension (idiopathic) without complications of left lower extremity
+437,202,19,114,1/26/2017,5/30/2018,N,Other disorders of fructose metabolism
+438,920,45,115,1/2/2017,2/15/2018,Y,"Unspecified dislocation of left toe(s), sequela"
+439,589,17,116,1/4/2018,5/24/2018,N,"Other fracture of lower end of right tibia, subsequent encounter for closed fracture with routine healing"
+440,322,12,117,7/28/2017,3/14/2018,N,"Open bite of left middle finger without damage to nail, initial encounter"
+441,124,59,118,11/18/2017,6/8/2018,N,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy
+442,618,90,119,5/18/2017,12/9/2018,Y,"Other instability, right shoulder"
+443,180,30,120,5/29/2017,12/19/2018,N,"Burn of unspecified degree of single right finger (nail) except thumb, initial encounter"
+444,876,78,121,3/16/2017,4/15/2018,N,"Nondisplaced dome fracture of right acetabulum, initial encounter for open fracture"
+445,711,5,122,10/27/2017,1/28/2018,N,"Dislocation of other carpometacarpal joint of left hand, initial encounter"
+446,729,16,123,6/25/2017,10/22/2018,N,"Other specified injuries of thorax, sequela"
+447,557,67,124,4/6/2017,1/2/2018,N,Injury of median nerve at wrist and hand level
+448,869,12,125,1/29/2017,6/30/2018,Y,Contusion of right shoulder
+449,428,67,126,7/21/2017,8/13/2018,Y,"Toxic effect of venom of gila monster, assault, sequela"
+450,750,35,127,7/29/2017,1/30/2018,Y,"Laceration with foreign body of nose, subsequent encounter"
+451,408,83,128,10/16/2017,4/19/2018,N,"Preterm labor third trimester with preterm delivery third trimester, fetus 1"
+452,330,66,129,1/30/2017,3/6/2018,N,Rheumatoid lung disease with rheumatoid arthritis of right elbow
+453,728,57,130,5/17/2017,4/26/2018,N,Chagas' disease (chronic) with digestive system involvement
+454,619,24,131,11/10/2017,10/24/2018,Y,"Person boarding or alighting a pedal cycle injured in collision with fixed or stationary object, subsequent encounter"
+455,391,84,132,12/28/2017,5/22/2018,N,"Displaced fracture of middle third of navicular [scaphoid] bone of unspecified wrist, subsequent encounter for fracture with nonunion"
+456,912,69,133,10/3/2017,5/14/2018,N,"Insect bite (nonvenomous), left thigh"
+457,53,72,134,1/9/2017,6/25/2018,N,"Injury of femoral nerve at hip and thigh level, unspecified leg, sequela"
+458,543,28,135,9/12/2017,12/17/2018,Y,"Exposure to excessive natural heat, sequela"
+459,581,39,136,4/2/2017,8/21/2018,N,"Gestational diabetes mellitus in childbirth, controlled by oral hypoglycemic drugs"
+460,659,89,137,2/5/2017,5/6/2018,Y,"Displaced oblique fracture of shaft of left tibia, sequela"
+461,227,89,138,11/4/2017,3/28/2018,Y,Motorcycle passenger injured in collision with heavy transport vehicle or bus in nontraffic accident
+462,69,38,387,1/30/2018,1/7/2018,N,"Maternal care for excessive fetal growth, unspecified trimester"
+463,574,85,388,6/13/2017,9/5/2018,N,Taeniasis
+464,200,44,389,10/5/2017,7/11/2018,Y,Other biomechanical lesions of sacral region
+465,235,48,390,10/17/2017,3/21/2018,Y,"Unspecified fracture of left patella, subsequent encounter for open fracture type I or II with routine healing"
+466,134,16,391,3/3/2017,7/9/2018,N,Retiform parapsoriasis
+467,290,67,392,2/26/2017,10/6/2018,Y,Other chronic pancreatitis
+468,277,80,393,10/25/2017,3/21/2018,N,"Fracture of unspecified part of body of right mandible, initial encounter for open fracture"
+469,255,23,394,5/20/2017,7/28/2018,Y,Unspecified injury of unspecified blood vessel at hip and thigh level
+470,634,76,395,5/22/2017,11/27/2018,Y,"Laceration of lesser saphenous vein at lower leg level, left leg, sequela"
+471,315,9,396,4/14/2017,7/13/2018,N,"Burn of unspecified degree of unspecified ear [any part, except ear drum], initial encounter"
+472,136,51,397,12/20/2017,12/31/2018,Y,"Other fracture of lower end of unspecified femur, sequela"
+473,794,12,398,10/21/2017,2/24/2018,Y,"War operations involving direct blast effect of nuclear weapon, military personnel, initial encounter"
+474,726,29,399,2/11/2017,3/2/2018,Y,"Accidental malfunction of other larger firearm, sequela"
+475,286,22,400,5/19/2017,10/15/2018,Y,Infarction of spleen
+476,686,46,401,9/17/2017,8/20/2018,N,"War operation involving nuclear radiation effects of nuclear weapon, civilian, subsequent encounter"
+477,232,90,402,11/24/2017,7/13/2018,N,"Other fracture of right ilium, sequela"
+478,549,49,403,1/8/2018,11/2/2018,Y,Maternal care for disproportion due to other fetal deformities
+479,740,64,404,7/24/2017,7/17/2018,Y,"Burn of first degree of right wrist, subsequent encounter"
+480,140,76,405,7/3/2017,6/16/2018,Y,Fractures of other specified skull and facial bones
+481,271,33,406,12/14/2017,6/30/2018,Y,Human immunodeficiency virus [HIV] disease complicating pregnancy
+482,742,57,407,3/4/2017,2/12/2018,N,"Other intraarticular fracture of lower end of unspecified radius, initial encounter for open fracture type I or II"
+483,845,73,408,11/2/2017,4/18/2018,Y,"Contact with knife, undetermined intent, subsequent encounter"
+484,967,26,409,9/5/2017,1/25/2018,Y,"Burn of unspecified degree of multiple sites of left lower limb, except ankle and foot, initial encounter"
+485,375,55,410,12/5/2017,8/4/2018,N,Unspecified injury of rectum
+486,664,64,411,9/24/2017,4/29/2018,Y,Disseminated cryptococcosis
+487,196,39,412,11/12/2017,7/13/2018,N,"Laceration of extensor muscle, fascia and tendon of left ring finger at forearm level, initial encounter"
+488,641,38,413,9/4/2017,6/19/2018,Y,"Displaced fracture of posterior wall of unspecified acetabulum, subsequent encounter for fracture with delayed healing"
+489,964,74,414,1/3/2018,10/22/2018,Y,"Displaced bimalleolar fracture of unspecified lower leg, subsequent encounter for closed fracture with malunion"
+490,8,82,415,7/10/2017,9/8/2018,N,"Anterior tibial syndrome, left leg"
+491,348,16,416,8/18/2017,6/10/2018,N,"Melanoma in situ of right eyelid, including canthus"
+492,106,70,417,7/10/2017,10/24/2018,Y,"Chronic mastoiditis, unspecified ear"
+493,167,57,418,1/18/2018,8/15/2018,Y,"War operations involving fragments from munitions, military personnel, initial encounter"
+494,436,14,419,3/9/2017,11/27/2018,N,Unspecified superficial injury of left ankle
+495,722,26,420,4/1/2017,8/13/2018,Y,"Contusion of right thumb with damage to nail, sequela"
+496,389,32,421,10/17/2017,5/17/2018,Y,"Drowning and submersion due to unspecified watercraft overturning, subsequent encounter"
+497,60,18,422,6/9/2017,3/30/2018,N,"Horseshoe tear of retina without detachment, bilateral"
+498,99,77,423,2/15/2017,8/24/2018,Y,"Unspecified contusion of spleen, subsequent encounter"
+499,854,83,424,11/10/2017,5/29/2018,Y,"Salter-Harris Type II physeal fracture of upper end of humerus, right arm, subsequent encounter for fracture with routine healing"
+500,990,69,425,11/13/2017,12/19/2018,Y,"Other superficial bite of hip, unspecified hip"
+501,625,86,426,9/5/2017,4/27/2018,N,"Displacement of internal fixation device of other bones, sequela"
+502,316,83,427,1/27/2018,9/13/2018,Y,"Malar fracture, left side, subsequent encounter for fracture with delayed healing"
+503,93,8,428,1/12/2018,11/6/2018,N,"Person boarding or alighting a three-wheeled motor vehicle injured in noncollision transport accident, initial encounter"
+504,867,12,429,7/12/2017,12/27/2018,Y,"Exposure keratoconjunctivitis, right eye"
+505,493,60,54,10/7/2017,2/26/2018,Y,Erythromelalgia
+506,888,89,55,5/14/2017,4/16/2018,Y,Embedded teeth
+507,212,30,56,7/17/2017,6/16/2018,Y,"Displaced fracture of right tibial spine, subsequent encounter for closed fracture with nonunion"
+508,478,48,57,1/12/2018,8/7/2018,N,Salter-Harris Type III physeal fracture of lower end of unspecified tibia
+509,724,73,58,1/20/2018,6/15/2018,Y,"Corrosion of unspecified degree of unspecified thigh, sequela"
+510,160,25,59,1/1/2018,6/17/2018,Y,"Rheumatoid arthritis without rheumatoid factor, right knee"
+511,400,76,60,1/27/2017,7/24/2018,N,Other specified rheumatic heart diseases
+512,415,57,61,3/20/2017,11/8/2018,Y,"Injury of ulnar nerve at forearm level, unspecified arm"
+513,248,72,62,9/25/2017,5/4/2018,Y,"Other chronic hematogenous osteomyelitis, right humerus"
+514,280,44,63,10/10/2017,1/7/2018,N,Person boarding or alighting from bus injured in collision with other nonmotor vehicle
+515,450,51,64,2/28/2017,6/18/2018,N,"Intermittent angle-closure glaucoma, bilateral"
+516,375,5,65,6/23/2017,1/31/2018,Y,Other injury of muscle and tendon of back wall of thorax
+517,583,22,66,7/10/2017,12/14/2018,N,"Other physeal fracture of lower end of radius, left arm"
+518,408,6,67,5/27/2017,7/12/2018,Y,"Other nondisplaced dens fracture, subsequent encounter for fracture with routine healing"
+519,630,89,68,7/6/2017,1/24/2018,N,"Driver of three-wheeled motor vehicle injured in collision with car, pick-up truck or van in traffic accident"
+520,679,16,69,4/29/2017,4/28/2018,N,"Inhalant dependence, uncomplicated"
+521,106,18,70,3/1/2017,2/22/2018,N,"Corrosion of second degree of multiple sites of left lower limb, except ankle and foot, subsequent encounter"
+522,526,82,71,9/21/2017,1/24/2018,N,Contact with and (suspected) exposure to radon and other naturally occuring radiation
+523,90,35,72,9/18/2017,5/17/2018,N,"Osteomyelitis of vertebra, sacral and sacrococcygeal region"
+524,799,74,73,9/5/2017,5/30/2018,N,"Corrosion of unspecified degree of unspecified toe(s) (nail), initial encounter"
+525,577,60,74,6/4/2017,8/9/2018,Y,"Aortic aneurysm of unspecified site, ruptured"
+526,113,84,199,1/6/2018,9/18/2018,N,"Unspecified cervical disc disorder, mid-cervical region, unspecified level"
+527,538,88,200,2/28/2017,2/14/2018,N,"Displaced fracture of neck of unspecified metacarpal bone, initial encounter for closed fracture"
+528,471,17,201,6/2/2017,12/18/2018,N,"Toxic effect of unspecified substance, intentional self-harm, subsequent encounter"
+529,103,74,202,1/18/2018,1/4/2018,N,"Toxic effect of venom of other North and South American snake, intentional self-harm, sequela"
+530,187,5,203,10/21/2017,10/28/2018,Y,"Complication of mesenteric artery following a procedure, not elsewhere classified, sequela"
+531,36,70,204,4/6/2017,11/7/2018,Y,Corneal abscess
+532,473,12,205,4/9/2017,11/12/2018,N,"Child neglect or abandonment, suspected, initial encounter"
+533,2,26,206,11/23/2017,9/20/2018,Y,"Unspecified occupant of pick-up truck or van injured in collision with other nonmotor vehicle in traffic accident, sequela"
+534,981,54,207,1/3/2018,2/8/2018,N,Burn of unspecified degree of right toe(s) (nail)
+535,430,57,208,3/10/2017,7/28/2018,Y,Varicose veins of right lower extremities with pain
+536,589,59,209,1/17/2017,1/6/2018,N,"Unspecified occupant of pick-up truck or van injured in noncollision transport accident in traffic accident, sequela"
+537,815,14,210,12/25/2017,1/1/2018,Y,"Nondisplaced oblique fracture of shaft of unspecified fibula, subsequent encounter for closed fracture with malunion"
+538,863,5,211,4/24/2017,1/3/2018,Y,"Other specified complication of nervous system prosthetic devices, implants and grafts, sequela"
+539,850,27,212,5/1/2017,10/17/2018,Y,"Leakage of other specified internal prosthetic devices, implants and grafts"
+540,323,53,213,1/15/2017,6/8/2018,Y,"Poisoning by antineoplastic and immunosuppressive drugs, undetermined, subsequent encounter"
+541,104,76,214,2/27/2017,4/16/2018,N,"Subluxation of other carpometacarpal joint of right hand, subsequent encounter"
+542,915,7,215,6/29/2017,3/30/2018,N,"Retinal neovascularization, unspecified, right eye"
+543,822,88,216,5/5/2017,7/9/2018,Y,"Toxic effect of venom of caterpillars, undetermined"
+544,582,15,217,9/25/2017,1/6/2018,N,"Pseudohermaphroditism, unspecified"
+545,214,84,218,7/30/2017,8/8/2018,N,Machinery accident on board unspecified watercraft
+546,965,15,219,2/3/2017,9/11/2018,N,"Torus fracture of lower end of unspecified radius, initial encounter for closed fracture"
+547,296,35,220,1/15/2017,5/18/2018,Y,"Other fracture of fifth metacarpal bone, right hand, subsequent encounter for fracture with routine healing"
+548,68,72,221,1/7/2017,4/7/2018,N,"Unspecified open wound of left eyelid and periocular area, subsequent encounter"
+549,120,45,222,7/24/2017,6/10/2018,N,"Military operations involving indirect blast effect of nuclear weapon, civilian, sequela"
+550,916,15,223,1/23/2018,6/4/2018,N,"Driver of pick-up truck or van injured in noncollision transport accident in nontraffic accident, subsequent encounter"
+551,56,54,224,4/8/2017,4/22/2018,Y,Chronic pulmonary embolism
+552,635,30,225,6/7/2017,6/14/2018,N,"Other specific arthropathies, not elsewhere classified, unspecified shoulder"
+553,39,49,226,5/1/2017,10/15/2018,Y,"Osteochondropathy, unspecified, unspecified upper arm"
+554,809,80,227,5/30/2017,6/22/2018,Y,"Nondisplaced oblique fracture of shaft of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+555,673,79,228,4/21/2017,2/28/2018,N,"Other mechanical complication of other urinary devices and implants, sequela"
+556,691,89,229,12/21/2017,11/9/2018,N,Abnormal and inconclusive findings on diagnostic imaging of breast
+557,742,21,230,6/28/2017,5/16/2018,N,"Displaced oblique fracture of shaft of right radius, sequela"
+558,448,84,231,6/28/2017,6/12/2018,N,"Other nondisplaced fracture of fifth cervical vertebra, subsequent encounter for fracture with routine healing"
+559,405,66,232,9/15/2017,8/4/2018,N,Bitten by shark
+560,609,53,233,12/31/2017,12/30/2018,N,"Corrosion of third degree of unspecified forearm, initial encounter"
+561,934,70,234,1/19/2017,12/1/2018,Y,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, sequela"
+562,832,55,235,5/12/2017,1/24/2018,Y,Critical illness myopathy
+563,295,78,236,12/22/2017,3/27/2018,Y,"Unspecified complication of anesthesia during pregnancy, unspecified trimester"
+564,993,86,237,1/1/2018,5/24/2018,N,Resistance to other specified antimicrobial drug
+565,484,28,238,12/5/2017,5/12/2018,Y,Congenital deformities of feet
+566,118,81,239,1/12/2018,1/26/2018,Y,"Failed or difficult intubation, sequela"
+567,479,62,240,2/25/2017,5/12/2018,Y,"Poisoning by calcium-channel blockers, accidental (unintentional), initial encounter"
+568,592,36,241,12/19/2017,3/4/2018,N,"Complete traumatic amputation of unspecified foot, level unspecified, subsequent encounter"
+569,474,74,242,3/29/2017,8/10/2018,Y,"War operations involving gasoline bomb, military personnel, sequela"
+570,462,66,243,7/8/2017,11/24/2018,Y,"Maternal care for anti-D [Rh] antibodies, first trimester, other fetus"
+571,835,76,244,5/23/2017,12/9/2018,Y,"Laceration of gallbladder, sequela"
+572,856,38,245,5/13/2017,4/24/2018,N,Furuncle of perineum
+573,595,15,246,3/30/2017,8/30/2018,N,"Toxic effect of paints and dyes, not elsewhere classified, assault"
+574,670,32,247,12/5/2017,10/8/2018,N,"Nondisplaced fracture of neck of unspecified radius, subsequent encounter for closed fracture with delayed healing"
+575,894,89,248,9/13/2017,3/13/2018,Y,"Salter-Harris Type II physeal fracture of left metatarsal, subsequent encounter for fracture with malunion"
+576,541,73,249,9/28/2017,9/25/2018,Y,"War operations involving unspecified effect of nuclear weapon, military personnel"
+577,49,29,250,6/30/2017,6/26/2018,N,"Contusion of right wrist, sequela"
+578,219,29,251,4/8/2017,9/22/2018,Y,"Acute peptic ulcer, site unspecified, with perforation"
+579,80,26,252,4/4/2017,11/8/2018,N,Personal history of malignant neoplasm of other parts of nervous tissue
+580,940,84,253,10/2/2017,8/12/2018,Y,"Laceration without foreign body of abdominal wall, left upper quadrant without penetration into peritoneal cavity, initial encounter"
+581,985,13,254,4/16/2017,8/2/2018,N,Other incomplete lesion at C7 level of cervical spinal cord
+582,150,5,255,9/22/2017,2/2/2018,N,"Other fracture of upper end of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+583,795,88,256,10/31/2017,3/14/2018,Y,"Poisoning by butyrophenone and thiothixene neuroleptics, undetermined"
+584,45,87,257,10/29/2017,12/14/2018,Y,War operation involving nuclear radiation effects of nuclear weapon
+585,767,42,258,5/26/2017,2/28/2018,N,Toxic effect of venom of tarantula
+586,410,29,259,5/29/2017,11/18/2018,N,Car driver injured in collision with pedal cycle in nontraffic accident
+587,888,73,260,1/15/2017,3/16/2018,Y,"Person on outside of car injured in collision with pedal cycle in nontraffic accident, initial encounter"
+588,640,90,261,3/9/2017,7/25/2018,N,"Injury of extensor muscle, fascia and tendon of other and unspecified finger at wrist and hand level"
+589,484,28,262,4/25/2017,12/23/2018,N,Other ectopic pregnancy without intrauterine pregnancy
+590,799,71,263,8/15/2017,10/30/2018,Y,"Rheumatoid arthritis without rheumatoid factor, right hand"
+591,114,66,264,5/29/2017,9/18/2018,N,"Underdosing of other drugs, medicaments and biological substances, sequela"
+592,229,58,265,1/29/2017,2/27/2018,Y,"Fracture of one rib, left side, sequela"
+593,798,23,266,1/3/2017,12/23/2018,Y,"Nondisplaced oblique fracture of shaft of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+594,612,21,411,3/5/2017,6/24/2018,Y,"Displaced segmental fracture of shaft of radius, left arm, subsequent encounter for open fracture type I or II with routine healing"
+595,23,55,412,7/12/2017,5/3/2018,N,"Drug-induced chronic gout, unspecified knee"
+596,604,21,413,1/20/2017,10/24/2018,Y,"Broken internal joint prosthesis, other site"
+597,484,83,414,1/9/2018,6/27/2018,Y,"Nondisplaced fracture of olecranon process with intraarticular extension of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+598,421,74,415,12/17/2017,1/1/2018,Y,"Preglaucoma, unspecified, right eye"
+599,500,29,416,5/27/2017,6/7/2018,Y,"Venous complication in pregnancy, unspecified, unspecified trimester"
+600,965,50,417,3/16/2017,6/15/2018,N,"Other specified injury of plantar artery of unspecified foot, subsequent encounter"
+601,902,62,418,5/14/2017,11/11/2018,N,"Toxic effect of arsenic and its compounds, assault, sequela"
+602,535,6,419,1/3/2018,6/18/2018,Y,"Drowning and submersion after fall into bathtub, undetermined intent"
+603,471,18,420,6/18/2017,5/24/2018,N,"Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident, sequela"
+604,280,16,421,1/27/2017,7/28/2018,N,Open bite of left great toe with damage to nail
+605,158,33,422,11/8/2017,2/27/2018,Y,"Other infection due to central venous catheter, initial encounter"
+606,289,63,423,1/6/2017,4/22/2018,Y,"Burn of first degree of left upper arm, subsequent encounter"
+607,31,86,16,1/5/2017,2/12/2018,Y,"Cocaine abuse, uncomplicated"
+608,685,65,17,1/9/2018,12/8/2018,Y,"Sprain of metatarsophalangeal joint of unspecified lesser toe(s), initial encounter"
+609,397,23,18,6/18/2017,6/29/2018,Y,"Burn of esophagus, sequela"
+610,866,82,19,12/21/2017,4/10/2018,Y,Other intraoperative cardiac functional disturbances during other surgery
+611,160,45,20,9/24/2017,7/2/2018,N,"Aggressive periodontitis, generalized, severe"
+612,283,66,21,11/9/2017,1/4/2018,Y,"Blister (nonthermal), left hip, initial encounter"
+613,233,53,22,3/21/2017,1/30/2018,Y,"Crushing injury of abdomen, lower back, and pelvis, sequela"
+614,681,73,23,2/11/2017,10/16/2018,Y,Traumatic hemopneumothorax
+615,444,63,24,1/16/2018,5/3/2018,N,Other  specified congenital deformities of feet
+616,912,7,25,3/30/2017,1/4/2018,Y,"Salter-Harris Type III physeal fracture of right calcaneus, sequela"
+617,434,10,26,6/18/2017,10/13/2018,Y,"Chondromalacia, left elbow"
+618,697,21,27,12/19/2017,4/2/2018,N,"Cervical disc disorder, unspecified, cervicothoracic region"
+619,5,48,28,4/17/2017,10/29/2018,N,Celiac disease
+620,463,58,29,7/17/2017,8/13/2018,N,"Torus fracture of lower end of left radius, sequela"
+621,62,23,30,10/23/2017,7/18/2018,N,"Sciatica, left side"
+622,228,65,31,2/7/2017,3/27/2018,Y,"Superficial frostbite of left hip and thigh, sequela"
+623,845,35,32,11/18/2017,7/8/2018,N,"Corrosion of unspecified degree of unspecified lower leg, initial encounter"
+624,454,66,33,6/17/2017,12/5/2018,N,"Cholesteatoma of tympanum, right ear"
+625,718,33,34,2/23/2017,1/27/2018,Y,"External constriction of unspecified upper arm, sequela"
+626,823,66,35,3/24/2017,7/6/2018,N,"Laceration of rectum, initial encounter"
+627,566,10,36,7/25/2017,4/4/2018,N,"Subluxation of C5/C6 cervical vertebrae, subsequent encounter"
+628,383,47,37,2/16/2017,9/10/2018,N,"Nondisplaced fracture of proximal phalanx of right little finger, subsequent encounter for fracture with nonunion"
+629,493,73,38,1/7/2017,1/14/2018,Y,"War operations involving unarmed hand to hand combat, civilian"
+630,66,63,39,2/3/2017,9/3/2018,N,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 1 hour to 5 hours 59 minutes, sequela"
+631,495,84,40,5/24/2017,3/29/2018,Y,"Laceration without foreign body of right ear, initial encounter"
+632,913,62,41,6/4/2017,1/30/2018,N,"Fall from cliff, subsequent encounter"
+633,836,36,42,1/22/2017,12/5/2018,N,"Accidental drowning and submersion while in bath-tub, subsequent encounter"
+634,676,63,43,11/21/2017,9/15/2018,N,"Displaced fracture of distal phalanx of right lesser toe(s), subsequent encounter for fracture with malunion"
+635,370,66,44,5/12/2017,10/20/2018,Y,"Displaced supracondylar fracture with intracondylar extension of lower end of right femur, initial encounter for open fracture type I or II"
+636,673,5,45,7/11/2017,12/2/2018,Y,"Other specified injury of blood vessel of left index finger, initial encounter"
+637,468,49,46,6/27/2017,6/4/2018,N,"Burn of second degree of right thumb (nail), subsequent encounter"
+638,609,89,47,8/11/2017,11/6/2018,N,"Salter-Harris Type IV physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with nonunion"
+639,282,60,48,4/17/2017,1/19/2018,Y,"Calcification and ossification of muscles associated with burns, left ankle and foot"
+640,848,50,49,4/28/2017,5/15/2018,Y,"Other specified injury of lesser saphenous vein at lower leg level, right leg, sequela"
+641,988,61,50,11/11/2017,11/1/2018,Y,"Term delivery with preterm labor, third trimester, not applicable or unspecified"
+642,516,61,51,5/11/2017,10/16/2018,N,"Strain of unspecified muscles, fascia and tendons at thigh level, right thigh, initial encounter"
+643,343,80,52,11/3/2017,12/25/2018,N,"Unspecified foreign body in respiratory tract, part unspecified causing asphyxiation, subsequent encounter"
+644,83,81,53,10/22/2017,1/19/2018,N,Superficial foreign body of right thumb
+645,928,55,54,11/21/2017,5/31/2018,N,"Burn of third degree of right lower leg, subsequent encounter"
+646,373,80,55,5/7/2017,1/31/2018,N,"Nondisplaced fracture of lateral malleolus of left fibula, subsequent encounter for open fracture type I or II with malunion"
+647,519,35,56,1/11/2018,9/10/2018,Y,"Disease of spinal cord, unspecified"
+648,564,54,57,1/25/2018,12/14/2018,Y,Complications of corneal transplant
+649,903,65,58,6/22/2017,12/27/2018,Y,"Sedative, hypnotic or anxiolytic dependence, uncomplicated"
+650,895,29,59,12/21/2017,12/31/2018,Y,External constriction of right eyelid and periocular area
+651,718,57,60,3/2/2017,2/13/2018,N,"Corrosion of second degree back of right hand, subsequent encounter"
+652,19,80,61,3/30/2017,8/30/2018,N,Allergy status to other anti-infective agents status
+653,232,81,62,10/11/2017,4/3/2018,Y,Laceration with foreign body of breast
+654,263,44,63,1/2/2018,9/22/2018,N,"Unspecified injury of other specified muscles, fascia and tendons at wrist and hand level, right hand"
+655,367,77,64,1/13/2018,2/15/2018,N,Periumbilic abdominal rigidity
+656,629,71,65,9/13/2017,6/2/2018,N,Unspecified subluxation of right ulnohumeral joint
+657,28,32,66,7/6/2017,12/31/2018,Y,"Nondisplaced spiral fracture of shaft of unspecified fibula, initial encounter for open fracture type I or II"
+658,584,56,67,12/28/2017,9/23/2018,Y,"Person injured in collision between heavy transport vehicle and bus, nontraffic, initial encounter"
+659,192,17,68,5/22/2017,9/4/2018,Y,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting unspecified side
+660,673,54,69,12/17/2017,12/1/2018,N,"Drowning and submersion due to other accident to water-skis, initial encounter"
+661,129,56,70,6/15/2017,6/8/2018,N,Hypermagnesemia
+662,878,28,71,11/21/2017,9/4/2018,Y,"Displaced fracture of unspecified tibial tuberosity, subsequent encounter for closed fracture with delayed healing"
+663,140,40,72,9/27/2017,10/6/2018,Y,"Laceration with foreign body of left great toe without damage to nail, initial encounter"
+664,935,18,73,4/10/2017,3/11/2018,N,"Nondisplaced fracture of epiphysis (separation) (upper) of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+665,936,13,74,4/21/2017,3/20/2018,N,"Salter-Harris Type II physeal fracture of lower end of unspecified tibia, subsequent encounter for fracture with malunion"
+666,47,52,75,7/17/2017,2/18/2018,N,"Unspecified superficial injury of left foot, subsequent encounter"
+667,766,73,76,3/28/2017,1/20/2018,N,"Unspecified superficial injury of unspecified parts of thorax, initial encounter"
+668,664,18,77,11/17/2017,10/26/2018,Y,"Unspecified fracture of lower end of left ulna, subsequent encounter for open fracture type I or II with routine healing"
+669,922,11,78,9/7/2017,1/13/2018,Y,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving"
+670,666,90,79,12/28/2017,11/1/2018,N,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours with return to pre-existing conscious level, subsequent encounter"
+671,879,77,80,8/13/2017,1/24/2018,N,Visual deprivation nystagmus
+672,673,52,81,1/26/2017,3/26/2018,Y,"Toxic effect of carbon monoxide from utility gas, undetermined, initial encounter"
+673,972,24,82,9/30/2017,10/22/2018,N,"Toxic effect of other metals, assault"
+674,468,64,83,7/28/2017,11/3/2018,N,"Toxic effect of tobacco cigarettes, undetermined"
+675,942,33,84,8/27/2017,10/27/2018,N,Ulcerative colitis
+676,595,78,85,6/2/2017,7/7/2018,N,Laceration with foreign body of lower leg
+677,308,8,86,4/17/2017,3/8/2018,N,"Poisoning by anticoagulants, undetermined"
+678,841,57,87,8/13/2017,8/14/2018,Y,"Unspecified occupant of heavy transport vehicle injured in collision with railway train or railway vehicle in traffic accident, subsequent encounter"
+679,238,5,88,4/14/2017,2/25/2018,N,"Poisoning by unspecified anesthetic, intentional self-harm"
+680,845,75,89,1/19/2017,9/19/2018,Y,"Unspecified petrositis, unspecified ear"
+681,672,25,90,11/21/2017,5/25/2018,N,"Poisoning by smallpox vaccines, undetermined, initial encounter"
+682,159,80,91,1/11/2017,10/19/2018,Y,Other and unspecified injury of lumbar and sacral spinal cord
+683,78,50,92,4/14/2017,9/5/2018,N,"Nondisplaced fracture of fifth metatarsal bone, left foot"
+684,17,53,93,1/7/2018,4/27/2018,N,"Unspecified open wound of anus, initial encounter"
+685,925,35,94,2/2/2017,4/9/2018,N,"Other superficial bite of right little finger, sequela"
+686,120,86,95,7/21/2017,5/5/2018,N,"Poisoning by centrally-acting and adrenergic-neuron-blocking agents, assault, subsequent encounter"
+687,334,80,96,2/28/2017,7/16/2018,N,Sickle-cell/Hb-C disease with crisis
+688,141,72,97,11/28/2017,1/15/2018,Y,"Chronic myeloid leukemia, BCR/ABL-positive, in remission"
+689,54,30,468,1/16/2017,8/29/2018,N,"Infection and inflammatory reaction due to implanted electronic neurostimulator of spinal cord, electrode (lead)"
+690,243,8,469,6/11/2017,6/2/2018,Y,"Poisoning by other systemic antibiotics, accidental (unintentional), initial encounter"
+691,83,51,470,11/2/2017,9/19/2018,N,Acne conglobata
+692,790,39,471,5/16/2017,1/23/2018,Y,"Contact with nonvenomous frogs, initial encounter"
+693,397,61,472,6/29/2017,10/4/2018,N,"Nondisplaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+694,75,13,473,12/13/2017,12/16/2018,Y,Unspecified fracture of first metacarpal bone
+695,898,31,474,6/25/2017,12/31/2018,Y,"Displaced oblique fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing"
+696,651,88,475,1/9/2017,1/25/2018,Y,"Adverse effect of pyrazolone derivatives, initial encounter"
+697,7,29,476,12/11/2017,11/12/2018,N,"Osteopathy in diseases classified elsewhere, right forearm"
+698,586,49,477,8/13/2017,1/9/2018,Y,"Unspecified fracture of upper end of right tibia, subsequent encounter for closed fracture with routine healing"
+699,693,11,478,5/8/2017,6/28/2018,Y,"Congenital kyphosis, thoracolumbar region"
+700,679,7,479,1/9/2017,6/30/2018,Y,"Other specific joint derangements of left shoulder, not elsewhere classified"
+701,180,75,480,6/11/2017,12/26/2018,N,"Retained portions of placenta and membranes, without hemorrhage"
+702,169,68,481,7/14/2017,10/3/2018,N,"Nondisplaced comminuted fracture of shaft of left femur, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+703,103,14,482,12/29/2017,10/29/2018,N,Person injured in collision between other motor vehicle and two- or three-wheeled motor vehicle (traffic)
+704,188,49,483,1/31/2018,10/19/2018,Y,"Poisoning by oxytocic drugs, assault, subsequent encounter"
+705,519,29,484,2/11/2017,6/3/2018,N,"Infection and inflammatory reaction due to indwelling urethral catheter, subsequent encounter"
+706,885,11,485,1/26/2018,8/25/2018,Y,"Displaced fracture of second metatarsal bone, left foot, subsequent encounter for fracture with malunion"
+707,872,84,486,1/14/2018,8/18/2018,N,"Hemorrhagic choroidal detachment, unspecified eye"
+708,184,48,487,5/1/2017,8/19/2018,Y,Dislocation of radiocarpal joint of right wrist
+709,60,80,488,7/6/2017,9/5/2018,Y,"Other sprain of left elbow, subsequent encounter"
+710,401,56,489,1/27/2017,2/17/2018,N,"Unspecified injury of left Achilles tendon, subsequent encounter"
+711,676,8,225,5/1/2017,5/23/2018,Y,"Sprain of lateral collateral ligament of unspecified knee, sequela"
+712,527,8,226,2/3/2017,5/12/2018,Y,"Chronic gout due to renal impairment, unspecified elbow, with tophus (tophi)"
+713,819,68,227,1/1/2018,7/7/2018,Y,Congenital ichthyosis
+714,249,34,228,3/4/2017,11/10/2018,Y,"Unspecified fracture of shaft of left radius, initial encounter for open fracture type I or II"
+715,274,35,229,8/27/2017,7/4/2018,N,"Epileptic spasms, not intractable, without status epilepticus"
+716,224,73,230,10/30/2017,7/19/2018,Y,"Asphyxiation due to being trapped in bed linens, undetermined, initial encounter"
+717,443,66,231,9/1/2017,12/10/2018,N,"Unspecified injury of greater saphenous vein at lower leg level, left leg"
+718,512,49,232,1/15/2017,2/8/2018,N,Lobular carcinoma in situ of left breast
+719,741,86,233,8/13/2017,10/8/2018,N,"Corrosion of third degree of unspecified scapular region, sequela"
+720,252,17,234,1/17/2017,5/27/2018,N,"Nondisplaced fracture of base of third metacarpal bone, left hand"
+721,78,49,235,10/10/2017,1/25/2018,N,"Placenta percreta, second trimester"
+722,187,10,236,12/5/2017,7/8/2018,Y,"Displaced fracture of intermediate cuneiform of right foot, subsequent encounter for fracture with routine healing"
+723,867,60,237,7/4/2017,4/5/2018,Y,Fracture of body of sternum
+724,69,53,238,10/17/2017,5/11/2018,N,"Nondisplaced segmental fracture of shaft of right fibula, initial encounter for closed fracture"
+725,799,24,239,11/21/2017,12/29/2018,N,"Motorcycle driver injured in collision with railway train or railway vehicle in nontraffic accident, initial encounter"
+726,407,56,240,3/22/2017,8/3/2018,N,"Contusion of left lesser toe(s) without damage to nail, subsequent encounter"
+727,400,40,241,9/24/2017,3/20/2018,N,Other acute postprocedural pain
+728,373,7,242,3/30/2017,8/8/2018,Y,"Displaced segmental fracture of shaft of radius, left arm, subsequent encounter for closed fracture with malunion"
+729,228,78,243,3/6/2017,1/13/2018,N,"Driver of three-wheeled motor vehicle injured in collision with pedestrian or animal in traffic accident, sequela"
+730,775,34,244,11/19/2017,12/27/2018,Y,"Posterior subluxation of right radial head, subsequent encounter"
+731,430,42,245,2/5/2017,8/20/2018,N,"Pre-existing hypertension with pre-eclampsia, second trimester"
+732,311,88,246,10/15/2017,7/18/2018,Y,"Other deformities of toe(s) (acquired), unspecified foot"
+733,371,36,247,6/5/2017,7/4/2018,Y,"Malignant neoplasm of commissure of lip, unspecified"
+734,323,70,248,4/22/2017,7/17/2018,Y,"Fracture of left shoulder girdle, part unspecified, initial encounter for closed fracture"
+735,147,57,249,1/24/2017,12/4/2018,Y,"Maternal care for other specified fetal problems, first trimester"
+736,62,6,250,5/1/2017,5/21/2018,N,Schwannomatosis
+737,200,34,251,6/12/2017,10/22/2018,N,"Other fracture of upper end of unspecified ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+738,703,58,252,6/24/2017,2/23/2018,N,"Salter-Harris Type III physeal fracture of phalanx of left toe, subsequent encounter for fracture with malunion"
+739,732,37,253,10/9/2017,2/10/2018,N,"Displaced segmental fracture of shaft of right fibula, subsequent encounter for closed fracture with delayed healing"
+740,430,29,254,9/28/2017,11/5/2018,Y,"Subluxation of C5/C6 cervical vertebrae, initial encounter"
+741,179,24,255,4/23/2017,7/30/2018,N,Accidental puncture and laceration of a musculoskeletal structure during other procedure
+742,828,36,256,9/30/2017,2/6/2018,Y,"Lattice degeneration of retina, unspecified eye"
+743,140,71,257,11/9/2017,9/19/2018,N,"Chronic osteomyelitis with draining sinus, right tibia and fibula"
+744,186,41,258,1/14/2017,7/17/2018,Y,"Post-traumatic osteoarthritis, shoulder"
+745,53,32,259,6/30/2017,6/14/2018,Y,Encounter for other general examination
+746,431,70,260,6/24/2017,1/28/2018,Y,"Adverse effect of unspecified hormones and synthetic substitutes, initial encounter"
+747,127,66,261,5/11/2017,10/17/2018,N,"Forced landing of commercial fixed-wing aircraft injuring occupant, initial encounter"
+748,984,55,262,1/7/2017,8/9/2018,N,"Salter-Harris Type I physeal fracture of upper end of radius, right arm, subsequent encounter for fracture with routine healing"
+749,742,5,263,1/20/2017,9/17/2018,Y,"Burn of cornea and conjunctival sac, right eye, subsequent encounter"
+750,922,7,264,6/29/2017,9/7/2018,N,Perianal venous thrombosis
+751,540,42,265,6/24/2017,7/4/2018,N,"Person on outside of snowmobile injured in nontraffic accident, initial encounter"
+752,154,63,266,1/20/2018,10/27/2018,Y,"Unspecified sprain of right hip, sequela"
+753,887,85,267,3/3/2017,7/6/2018,N,"Unstable burst fracture of fifth lumbar vertebra, initial encounter for closed fracture"
+754,191,74,268,2/26/2017,3/5/2018,N,"Motorcycle rider (driver) (passenger) injured in unspecified nontraffic accident, initial encounter"
+755,388,17,269,1/1/2017,7/18/2018,N,"Breakdown (mechanical) of coronary artery bypass graft, subsequent encounter"
+756,586,72,270,9/11/2017,9/12/2018,Y,"Corrosion of third degree of upper back, subsequent encounter"
+757,96,54,271,9/11/2017,5/17/2018,N,"Other mastoiditis and related conditions, left ear"
+758,243,45,272,1/1/2017,9/10/2018,N,"Contact with other sharp object, undetermined intent, subsequent encounter"
+759,886,34,273,1/23/2017,5/22/2018,Y,"Puncture wound with foreign body of right great toe with damage to nail, initial encounter"
+760,12,51,274,12/18/2017,9/15/2018,N,"Person boarding or alighting a car injured in collision with van, subsequent encounter"
+761,194,61,275,3/25/2017,4/25/2018,Y,"Fall from scooter (nonmotorized), initial encounter"
+762,329,62,276,12/23/2017,6/24/2018,N,"Unspecified fracture of head of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+763,222,71,277,7/20/2017,4/2/2018,N,"Nondisplaced fracture of distal phalanx of left little finger, subsequent encounter for fracture with delayed healing"
+764,109,9,278,9/29/2017,11/2/2018,N,"Mantle cell lymphoma, unspecified site"
+765,11,52,279,1/2/2017,11/30/2018,Y,"Lead-induced gout, right ankle and foot"
+766,240,64,280,11/12/2017,12/31/2018,Y,Arthropathy in hypersensitivity reactions classified elsewhere
+767,475,90,281,1/28/2017,8/31/2018,Y,"ABO incompatibility reaction due to transfusion of blood or blood products, unspecified, initial encounter"
+768,979,30,282,1/23/2018,5/8/2018,Y,"Corrosion of first degree of left shoulder, initial encounter"
+769,937,24,283,7/22/2017,2/28/2018,Y,Gestational diabetes mellitus in childbirth
+770,883,77,284,6/8/2017,3/24/2018,N,"Other fracture of unspecified great toe, initial encounter for closed fracture"
+771,253,72,285,1/29/2017,12/16/2018,Y,"Childhood disorder of social functioning, unspecified"
+772,359,60,124,7/21/2017,8/9/2018,N,Corrosion of second degree of wrist and hand
+773,832,29,125,3/6/2017,2/3/2018,Y,"Age-related osteoporosis with current pathological fracture, right shoulder, subsequent encounter for fracture with delayed healing"
+774,792,77,126,8/26/2017,9/23/2018,N,"Nondisplaced fracture of lower epiphysis (separation) of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+775,365,68,127,1/31/2018,5/10/2018,N,"Unspecified injury of vein at forearm level, unspecified arm, subsequent encounter"
+776,873,50,128,8/18/2017,2/16/2018,N,Oligospermia due to extratesticular causes
+777,44,26,129,11/25/2017,5/14/2018,Y,"Other accident on other pedestrian conveyance, sequela"
+778,746,30,130,11/5/2017,10/15/2018,Y,"Stable burst fracture of first cervical vertebra, initial encounter for closed fracture"
+779,736,60,131,11/13/2017,1/20/2018,Y,"Poisoning by unspecified fibrinolysis-affecting drugs, intentional self-harm, initial encounter"
+780,35,43,132,6/29/2017,10/10/2018,Y,"Ciguatera fish poisoning, intentional self-harm, sequela"
+781,364,31,133,1/21/2017,9/18/2018,N,"Other extraarticular fracture of lower end of unspecified radius, subsequent encounter for closed fracture with nonunion"
+782,556,18,134,1/3/2017,4/13/2018,Y,"Medial subluxation of proximal end of tibia, right knee, subsequent encounter"
+783,230,9,135,5/4/2017,11/27/2018,Y,"Nondisplaced supracondylar fracture with intracondylar extension of lower end of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+784,376,7,136,12/7/2017,11/19/2018,Y,"Unspecified fracture of upper end of unspecified tibia, subsequent encounter for open fracture type I or II with malunion"
+785,126,24,137,5/17/2017,8/15/2018,N,"Unspecified superficial injury of unspecified part of neck, initial encounter"
+786,721,23,138,11/24/2017,4/24/2018,Y,Congenital cirrhosis (of liver)
+787,24,90,139,12/7/2017,2/13/2018,N,"Displacement of breast prosthesis and implant, subsequent encounter"
+788,477,52,140,10/21/2017,7/21/2018,N,"Torus fracture of upper end of unspecified fibula, subsequent encounter for fracture with nonunion"
+789,566,60,141,10/9/2017,8/16/2018,Y,"Chondromalacia, right wrist"
+790,422,28,357,1/22/2018,3/29/2018,N,"Adverse effect of methadone, subsequent encounter"
+791,194,83,358,1/16/2018,2/5/2018,N,Atheroembolism of unspecified upper extremity
+792,276,76,359,8/16/2017,3/6/2018,Y,"Burn of third degree of unspecified upper arm, sequela"
+793,802,12,360,8/20/2017,7/6/2018,N,Legal intervention involving firearm discharge
+794,743,67,361,3/22/2017,7/16/2018,Y,"Other specified injury of ulnar artery at wrist and hand level of left arm, subsequent encounter"
+795,755,32,362,10/25/2017,9/3/2018,Y,"Other physeal fracture of upper end of radius, unspecified arm, subsequent encounter for fracture with nonunion"
+796,998,56,363,1/24/2018,7/25/2018,N,Puncture wound without foreign body of unspecified forearm
+797,874,65,364,7/13/2017,3/5/2018,Y,Displaced fracture of posterior wall of right acetabulum
+798,899,30,365,2/21/2017,4/18/2018,N,"Penetrating wound of orbit with or without foreign body, left eye, sequela"
+799,158,66,366,10/25/2017,7/6/2018,N,Nontraumatic subacute subdural hemorrhage
+800,474,73,367,3/6/2017,8/24/2018,Y,"Complete rotator cuff tear or rupture of left shoulder, not specified as traumatic"
+801,783,7,368,5/28/2017,1/29/2018,N,"Laceration of pleura, subsequent encounter"
+802,571,86,369,8/3/2017,1/28/2018,N,"Exposure to reduction in atmospheric pressure while surfacing from underground, initial encounter"
+803,286,46,370,1/5/2017,6/10/2018,Y,"Other mechanical complication of internal fixation device of bone of left forearm, sequela"
+804,941,55,371,3/8/2017,5/30/2018,Y,Displaced fracture of lateral condyle of right humerus
+805,972,34,372,6/25/2017,11/17/2018,Y,"Other snowboard accident, initial encounter"
+806,264,28,373,4/27/2017,8/9/2018,Y,"Complete loss of teeth, unspecified cause, class III"
+807,999,47,374,8/10/2017,12/17/2018,Y,"Contusion of unspecified finger with damage to nail, subsequent encounter"
+808,37,20,375,3/1/2017,10/14/2018,N,"Other displaced fracture of first cervical vertebra, initial encounter for open fracture"
+809,320,82,376,7/15/2017,4/4/2018,Y,"Other physeal fracture of upper end of left tibia, sequela"
+810,945,62,377,10/17/2017,4/14/2018,N,"Displaced spiral fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+811,227,36,378,11/28/2017,3/23/2018,Y,"Puncture wound without foreign body of unspecified back wall of thorax without penetration into thoracic cavity, subsequent encounter"
+812,135,79,379,9/2/2017,6/7/2018,Y,Nondisplaced fracture of lateral malleolus of unspecified fibula
+813,242,84,380,1/14/2018,12/8/2018,N,"Other superficial bite of throat, initial encounter"
+814,827,83,381,1/20/2018,8/11/2018,N,"Person boarding or alighting a pedal cycle injured in collision with pedestrian or animal, sequela"
+815,261,50,382,10/2/2017,9/30/2018,Y,"Subluxation of metatarsophalangeal joint of left lesser toe(s), subsequent encounter"
+816,255,50,383,1/29/2018,3/22/2018,N,"Unspecified malignant neoplasm of skin of right eyelid, including canthus"
+817,653,54,384,5/31/2017,3/21/2018,Y,"Unspecified primary angle-closure glaucoma, mild stage"
+818,295,89,385,12/14/2017,10/3/2018,N,"Injury of other specified blood vessels at neck level, sequela"
+819,341,30,386,6/7/2017,8/5/2018,Y,"Torus fracture of lower end of right humerus, subsequent encounter for fracture with malunion"
+820,892,76,387,1/30/2017,3/20/2018,Y,"Juvenile arthritis, unspecified, left ankle and foot"
+821,157,13,388,9/16/2017,8/10/2018,N,Placenta percreta
+822,346,66,389,5/13/2017,5/27/2018,Y,"Corrosion of unspecified degree of unspecified lower leg, subsequent encounter"
+823,921,18,444,5/5/2017,11/26/2018,N,"Salter-Harris Type II physeal fracture of phalanx of right toe, initial encounter for open fracture"
+824,680,34,445,5/14/2017,10/10/2018,N,"Displaced fracture of third metatarsal bone, right foot, subsequent encounter for fracture with delayed healing"
+825,537,51,446,1/6/2017,3/10/2018,N,Displaced fracture of proximal phalanx of left ring finger
+826,359,29,447,4/19/2017,5/12/2018,Y,"Other injury of liver, subsequent encounter"
+827,581,44,448,1/10/2017,4/28/2018,Y,"Major contusion of unspecified kidney, subsequent encounter"
+828,478,34,449,1/21/2017,7/29/2018,N,Unspecified cyst of jaw
+829,209,45,450,2/23/2017,8/5/2018,N,"Unspecified injury of posterior tibial artery, left leg"
+830,858,25,451,9/10/2017,1/31/2018,N,Other chronic respiratory diseases originating in the perinatal period
+831,532,37,452,11/11/2017,12/13/2018,N,"Displaced transverse fracture of left patella, subsequent encounter for closed fracture with malunion"
+832,230,15,453,11/18/2017,4/28/2018,N,"Corrosion of unspecified degree of scalp [any part], sequela"
+833,969,69,454,5/1/2017,4/23/2018,N,"Subluxation of distal interphalangeal joint of right little finger, sequela"
+834,279,64,455,6/5/2017,11/27/2018,Y,"Varus deformity, not elsewhere classified, right ankle"
+835,625,89,456,2/27/2017,7/11/2018,Y,"Poisoning by unspecified primarily systemic and hematological agent, accidental (unintentional), subsequent encounter"
+836,980,26,457,5/22/2017,11/21/2018,Y,Pressure ulcer of hip
+837,2,44,458,10/17/2017,7/23/2018,N,"Burn of third degree of unspecified axilla, subsequent encounter"
+838,829,49,459,12/24/2017,1/12/2018,N,"Arthritis due to other bacteria, unspecified hip"
+839,925,13,460,7/6/2017,10/7/2018,Y,"Car driver injured in collision with other type car in traffic accident, subsequent encounter"
+840,628,30,461,3/17/2017,10/1/2018,Y,"External constriction, right knee, sequela"
+841,534,87,462,12/13/2017,7/19/2018,N,"Animal-rider injured in collision with two- or three-wheeled motor vehicle, subsequent encounter"
+842,480,20,119,2/11/2017,8/12/2018,N,Drowning and submersion due to falling or jumping from crushed canoe or kayak
+843,391,83,120,1/5/2017,11/12/2018,Y,"Abrasion, right knee"
+844,61,37,121,11/18/2017,10/5/2018,N,"Nondisplaced fracture of distal phalanx of right index finger, subsequent encounter for fracture with malunion"
+845,777,37,122,3/26/2017,11/17/2018,Y,"Other fracture of upper end of unspecified ulna, subsequent encounter for open fracture type I or II with malunion"
+846,702,11,123,8/24/2017,6/25/2018,Y,Nondisplaced fracture of medial phalanx of right lesser toe(s)
+847,275,74,124,8/28/2017,8/20/2018,N,"Exposure to flames in uncontrolled fire in building or structure, sequela"
+848,814,18,125,5/4/2017,6/28/2018,Y,"Pedestrian on skateboard injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter"
+849,264,55,126,1/7/2017,9/23/2018,Y,"Unspecified accident to commercial fixed-wing aircraft injuring occupant, initial encounter"
+850,108,48,127,3/16/2017,2/1/2018,N,"Other nondisplaced fracture of upper end of right humerus, subsequent encounter for fracture with delayed healing"
+851,767,16,128,10/30/2017,7/20/2018,N,"Rupture of synovium, left finger(s)"
+852,795,49,129,4/18/2017,12/21/2018,Y,"Neoplasm of uncertain behavior of brain, infratentorial"
+853,624,25,130,7/13/2017,5/11/2018,Y,"Explosion of bomb placed during war operations but exploding after cessation of hostilities, civilian, initial encounter"
+854,292,7,131,8/6/2017,6/20/2018,N,"Scombroid fish poisoning, accidental (unintentional), subsequent encounter"
+855,310,20,360,3/21/2017,8/20/2018,Y,Acquired absence of other finger(s)
+856,407,54,361,1/27/2017,7/5/2018,Y,"Nondisplaced dome fracture of unspecified talus, initial encounter for open fracture"
+857,737,15,362,3/25/2017,11/1/2018,Y,Encounter for fitting and adjustment of artificial eye
+858,905,14,363,3/17/2017,6/26/2018,N,"Unqualified visual loss, one eye, unspecified"
+859,145,85,364,6/28/2017,12/17/2018,N,Laceration without foreign body of left little finger with damage to nail
+860,532,20,365,1/23/2018,3/11/2018,N,"Nondisplaced fracture of lateral condyle of left femur, subsequent encounter for closed fracture with delayed healing"
+861,855,88,366,12/9/2017,5/8/2018,Y,Drug-induced chorea
+862,359,84,367,12/26/2017,8/29/2018,Y,"Unspecified occupant of three-wheeled motor vehicle injured in noncollision transport accident in traffic accident, initial encounter"
+863,705,60,368,11/12/2017,4/28/2018,Y,"Legal intervention involving injury by rubber bullet, bystander injured"
+864,252,47,369,11/2/2017,4/10/2018,Y,"Primary cyst of pars plana, bilateral"
+865,244,44,370,8/13/2017,8/28/2018,Y,Severely displaced Zone II fracture of sacrum
+866,742,56,371,12/9/2017,8/26/2018,N,"Pedestrian with other conveyance injured in collision with pedal cycle in nontraffic accident, subsequent encounter"
+867,381,40,372,7/16/2017,9/9/2018,Y,"Military operations involving incendiary bullet, civilian, sequela"
+868,814,43,373,8/28/2017,9/2/2018,Y,"Stiffness of left shoulder, not elsewhere classified"
+869,635,25,374,6/24/2017,10/8/2018,Y,Mallet finger of left finger(s)
+870,150,25,375,1/2/2018,8/4/2018,N,"Nontraumatic ischemic infarction of muscle, unspecified shoulder"
+871,655,87,376,1/31/2018,2/23/2018,Y,"Unspecified injury of left foot, initial encounter"
+872,684,79,377,8/31/2017,11/29/2018,Y,"Superficial foreign body of left front wall of thorax, subsequent encounter"
+873,90,42,378,7/12/2017,3/25/2018,N,"Displaced fracture of base of third metacarpal bone, right hand, subsequent encounter for fracture with nonunion"
+874,641,87,379,3/31/2017,4/1/2018,Y,"War operations involving unarmed hand to hand combat, military personnel"
+875,214,14,380,9/10/2017,6/16/2018,N,"Frostbite with tissue necrosis of left hip and thigh, sequela"
+876,575,89,381,1/22/2017,8/30/2018,N,"Strain of other muscle(s) and tendon(s) at lower leg level, unspecified leg, subsequent encounter"
+877,882,84,382,11/28/2017,10/22/2018,Y,"Kissing spine, occipito-atlanto-axial region"
+878,266,78,383,6/10/2017,12/18/2018,Y,"Displaced fracture of distal phalanx of left middle finger, subsequent encounter for fracture with routine healing"
+879,296,52,384,9/8/2017,8/9/2018,Y,Other superficial injuries of toe
+880,537,26,385,11/9/2017,5/29/2018,Y,Open bite of unspecified cheek and temporomandibular area
+881,728,23,386,1/1/2017,3/20/2018,Y,Central dislocation of left hip
+882,164,36,387,4/8/2017,2/14/2018,N,"Acquired clawhand, right hand"
+883,694,11,388,9/4/2017,9/28/2018,N,"Complete traumatic metacarpophalangeal amputation of left little finger, sequela"
+884,66,64,389,7/31/2017,3/29/2018,N,"Poisoning by other antipsychotics and neuroleptics, intentional self-harm"
+885,514,10,390,11/5/2017,11/18/2018,Y,"Crushing injury of shoulder and upper arm, unspecified arm, subsequent encounter"
+886,859,43,321,2/15/2017,4/11/2018,Y,"Blister (nonthermal) of unspecified hand, subsequent encounter"
+887,689,44,322,9/18/2017,10/11/2018,Y,Transcobalamin II deficiency
+888,907,83,323,12/17/2017,8/16/2018,N,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations
+889,112,56,324,8/16/2017,3/25/2018,Y,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction
+890,543,88,325,12/2/2017,9/25/2018,Y,"Contact with hot water in bath or tub, initial encounter"
+891,219,46,326,9/11/2017,4/28/2018,N,Encounter for testing of male partner of patient with recurrent pregnancy loss
+892,475,78,327,6/11/2017,1/7/2018,N,Encounter for other screening for malignant neoplasm of breast
+893,526,80,369,2/24/2017,11/3/2018,N,"Corrosion of first degree of unspecified forearm, initial encounter"
+894,661,9,367,10/3/2017,11/20/2018,Y,Vanadium deficiency
+895,419,45,R019,9/7/2017,12/2/2018,Y,"Other specified injury of unspecified blood vessel at hip and thigh level, right leg, sequela"
+896,354,61,R020,1/8/2017,6/10/2018,Y,"Maternal care for compound presentation, fetus 1"
+897,211,27,R021,6/15/2017,6/18/2018,Y,Unspecified open wound of other specified part of neck
+898,494,65,R022,1/26/2018,2/11/2018,N,"Displaced fracture of pisiform, right wrist"
+899,864,59,R023,1/17/2017,7/10/2018,N,"Laceration of unspecified blood vessel of thorax, subsequent encounter"
+900,820,64,R024,8/5/2017,1/18/2018,N,"Unspecified physeal fracture of upper end of left femur, sequela"
+901,985,34,R025,6/19/2017,5/28/2018,Y,Car passenger injured in collision with sport utility vehicle in traffic accident
+902,328,22,R026,3/31/2017,8/21/2018,Y,"Other complications of foreign body accidentally left in body following unspecified procedure, subsequent encounter"
+903,285,69,R027,9/3/2017,11/27/2018,N,"Nondisplaced longitudinal fracture of unspecified patella, initial encounter for open fracture type IIIA, IIIB, or IIIC"
+904,114,18,R028,12/25/2017,12/10/2018,N,"Age-related osteoporosis with current pathological fracture, right lower leg, sequela"
+905,91,50,R029,1/27/2018,12/19/2018,N,"Toxic effect of other insecticides, assault, initial encounter"
+906,66,11,R030,12/16/2017,3/13/2018,N,"Other myeloid leukemia, in relapse"
+907,786,56,R031,4/8/2017,10/26/2018,N,Dislocation of distal interphalangeal joint of left middle finger
+908,394,17,R032,4/11/2017,8/15/2018,Y,"Salter-Harris Type IV physeal fracture of lower end of humerus, right arm"
+909,671,52,472,11/27/2017,6/25/2018,N,"Displaced fracture of olecranon process without intraarticular extension of right ulna, subsequent encounter for closed fracture with delayed healing"
+910,296,23,473,1/30/2017,7/26/2018,N,"Torus fracture of upper end of right ulna, initial encounter for closed fracture"
+911,209,8,474,1/22/2017,8/9/2018,Y,"Unspecified occupant of three-wheeled motor vehicle injured in collision with car, pick-up truck or van in traffic accident, sequela"
+912,857,14,475,12/2/2017,1/16/2018,N,"Displaced comminuted fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+913,407,22,476,2/5/2017,11/20/2018,N,"Other dislocation of right wrist and hand, initial encounter"
+914,922,24,477,11/13/2017,6/11/2018,N,"Terrorism, secondary effects, civilian injured"
+915,545,16,478,11/26/2017,8/18/2018,Y,"Nondisplaced fracture of head of left radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+916,653,80,479,8/2/2017,12/14/2018,N,Hydronephrosis with ureteropelvic junction obstruction
+917,795,61,480,2/18/2017,4/11/2018,Y,"Nondisplaced fracture of medial condyle of left humerus, initial encounter for closed fracture"
+918,287,14,481,3/21/2017,2/4/2018,Y,"Dislocation of metacarpophalangeal joint of right index finger, sequela"
+919,321,37,482,2/1/2017,10/9/2018,Y,Paralytic ptosis unspecified eyelid
+920,784,72,483,11/2/2017,6/30/2018,N,"Unspecified car occupant injured in collision with pick-up truck in traffic accident, subsequent encounter"
+921,597,46,484,3/29/2017,5/9/2018,N,Madarosis of left lower eyelid and periocular area
+922,831,49,485,1/31/2018,1/19/2018,N,"Maternal care for Anti-A sensitization, first trimester"
+923,126,31,486,6/5/2017,8/20/2018,Y,"Nondisplaced fracture of right ulna styloid process, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing"
+924,300,67,487,9/27/2017,7/22/2018,N,"Nondisplaced fracture of posterior column [ilioischial] of right acetabulum, subsequent encounter for fracture with routine healing"
+925,474,77,488,10/13/2017,1/30/2018,Y,"Contact with powered lawn mower, sequela"
+926,279,16,489,8/21/2017,6/25/2018,Y,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right dominant side
+927,617,17,490,6/28/2017,4/15/2018,Y,Other neutropenia
+928,618,54,491,11/29/2017,3/17/2018,N,Other specified types of non-Hodgkin lymphoma
+929,783,61,492,1/18/2017,9/7/2018,Y,"Other injury of adductor muscle, fascia and tendon of left thigh, sequela"
+930,703,23,493,11/24/2017,5/10/2018,Y,"Pregnancy with inconclusive fetal viability, other fetus"
+931,969,49,279,5/19/2017,3/7/2018,Y,"Unspecified injury of unspecified muscle, fascia and tendon at wrist and hand level"
+932,982,26,280,1/17/2018,10/9/2018,N,"Unspecified injury of unspecified Achilles tendon, initial encounter"
+933,527,51,281,12/19/2017,9/5/2018,N,"Amenorrhea, unspecified"
+934,572,20,282,6/13/2017,3/29/2018,N,"Primary focal hyperhidrosis, palms"
+935,158,33,283,7/29/2017,2/7/2018,N,"Displaced fracture of epiphysis (separation) (upper) of left femur, initial encounter for open fracture type I or II"
+936,526,49,284,11/19/2017,1/4/2018,Y,Displaced dome fracture of left talus
+937,711,38,285,11/15/2017,5/2/2018,N,"Toxic effect of hydrogen sulfide, assault, subsequent encounter"
+938,765,37,286,5/14/2017,4/4/2018,N,"Poisoning by local anesthetics, accidental (unintentional)"
+939,98,9,287,12/21/2017,12/14/2018,Y,"Toxic effect of benzene, accidental (unintentional), sequela"
+940,882,25,152,1/11/2018,2/3/2018,Y,"Other fracture of head and neck of unspecified femur, subsequent encounter for closed fracture with delayed healing"
+941,769,77,153,8/30/2017,11/20/2018,Y,Benign neoplasm of unspecified ureter
+942,652,26,154,7/21/2017,2/4/2018,N,Intentional self-harm by other firearm discharge
+943,409,82,155,1/30/2018,10/25/2018,Y,"Nondisplaced unspecified condyle fracture of lower end of right femur, subsequent encounter for closed fracture with nonunion"
+944,473,46,156,12/27/2017,6/13/2018,Y,Acquired absence of unspecified leg below knee
+945,410,67,157,3/5/2017,1/28/2018,N,"Interstitial myositis, upper arm"
+946,144,49,158,8/27/2017,9/3/2018,Y,"External constriction of right middle finger, sequela"
+947,197,58,159,4/20/2017,2/24/2018,Y,"Underdosing of digestants, initial encounter"
+948,723,31,160,1/22/2018,3/19/2018,Y,"Poisoning by electrolytic, caloric and water-balance agents, accidental (unintentional), initial encounter"
+949,434,85,161,10/23/2017,9/21/2018,N,Injury of nerves at forearm level
+950,453,59,162,4/27/2017,9/21/2018,N,"Other fracture of shaft of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion"
+951,976,90,163,1/10/2017,7/23/2018,N,Motorcycle driver injured in collision with two- or three-wheeled motor vehicle in traffic accident
+952,80,59,164,3/5/2017,9/17/2018,Y,"Infection of amniotic sac and membranes, unspecified, first trimester, fetus 4"
+953,631,57,165,8/12/2017,11/4/2018,Y,Nondisplaced fracture of cuboid bone of unspecified foot
+954,648,83,166,4/15/2017,8/18/2018,Y,Hallucinogen abuse with hallucinogen-induced anxiety disorder
+955,642,61,2,6/12/2017,5/5/2018,N,"Toxic effect of contact with other venomous marine animals, assault, subsequent encounter"
+956,844,39,3,3/25/2017,9/2/2018,N,Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction
+957,504,48,4,3/5/2017,8/20/2018,Y,"Retrolental fibroplasia, right eye"
+958,909,19,5,1/3/2018,5/12/2018,Y,War operations involving gasoline bomb
+959,90,8,6,11/10/2017,11/20/2018,N,"Other displaced fracture of fifth cervical vertebra, sequela"
+960,177,77,7,11/11/2017,11/4/2018,Y,Other hereditary and idiopathic neuropathies
+961,540,63,8,4/13/2017,8/19/2018,N,Cerebral cryptococcosis
+962,625,63,9,6/13/2017,4/15/2018,N,"Posterior displaced fracture of sternal end of unspecified clavicle, sequela"
+963,127,39,10,9/9/2017,1/10/2018,N,"Injury of trigeminal nerve, unspecified side, subsequent encounter"
+964,654,28,11,4/6/2017,4/13/2018,N,"Adverse effect of unspecified drugs acting on muscles, sequela"
+965,702,11,12,8/7/2017,1/26/2018,N,Corrosion of second degree of right thigh
+966,172,87,13,8/1/2017,5/5/2018,N,Laceration of muscle and tendon of head
+967,417,75,14,10/11/2017,10/14/2018,N,"Bent bone of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion"
+968,923,6,15,5/31/2017,1/24/2018,N,Contusion of left lesser toe(s) without damage to nail
+969,586,49,16,3/24/2017,7/31/2018,Y,"Unspecified maternal hypertension, unspecified trimester"
+970,859,88,17,12/17/2017,1/21/2018,Y,"Other stimulant abuse with intoxication, unspecified"
+971,341,66,18,12/30/2017,1/8/2018,Y,"Subluxation of interphalangeal joint of left lesser toe(s), subsequent encounter"
+972,437,7,19,8/4/2017,4/29/2018,Y,"Burn of third degree of unspecified ankle, initial encounter"
+973,391,59,20,10/23/2017,4/11/2018,N,"Partial traumatic transmetacarpal amputation of unspecified hand, initial encounter"
+974,861,54,21,5/1/2017,1/12/2018,Y,"Other fracture of unspecified patella, subsequent encounter for open fracture type I or II with malunion"
+975,714,17,22,9/11/2017,9/4/2018,Y,"Poisoning by alpha-adrenoreceptor antagonists, accidental (unintentional), subsequent encounter"
+976,90,48,23,2/15/2017,1/19/2018,Y,"Ultralight, microlight or powered-glider fire injuring occupant"
+977,96,79,24,3/22/2017,8/5/2018,N,"Pauciarticular juvenile rheumatoid arthritis, wrist"
+978,477,9,25,11/25/2017,2/11/2018,Y,"Other specified injuries unspecified forearm, initial encounter"
+979,694,87,26,9/28/2017,1/18/2018,Y,"Unspecified injury of unspecified internal jugular vein, subsequent encounter"
+980,578,74,27,3/22/2017,6/16/2018,Y,"Abrasion, right thigh"
+981,846,56,28,1/11/2017,1/3/2018,Y,"Mixed conductive and sensorineural hearing loss, unilateral, left ear with restricted hearing on the contralateral side"
+982,243,70,29,1/22/2017,5/16/2018,N,Personal history of malignant carcinoid tumor of bronchus and lung
+983,828,60,30,7/25/2017,7/23/2018,N,"Burn of second degree of unspecified thigh, initial encounter"
+984,519,60,31,1/2/2018,8/27/2018,Y,"Person on outside of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident, subsequent encounter"
+985,997,79,32,1/20/2018,11/21/2018,N,Injury of scalp of newborn due to monitoring equipment
+986,257,56,33,2/4/2017,9/21/2018,N,"Nondisplaced oblique fracture of shaft of right radius, sequela"
+987,194,57,34,11/12/2017,4/16/2018,Y,"Nondisplaced transverse fracture of shaft of unspecified radius, sequela"
+988,130,31,35,2/14/2017,12/2/2018,N,Basal cell carcinoma of skin of lip
+989,173,43,36,1/10/2018,12/25/2018,Y,"Fall from scooter (nonmotorized), subsequent encounter"
+990,808,6,37,1/24/2017,8/7/2018,N,"Sprain of left acromioclavicular joint, subsequent encounter"
+991,819,14,38,3/6/2017,12/23/2018,N,"Labor and delivery complicated by other cord complications, fetus 3"
+992,770,84,39,12/3/2017,3/28/2018,N,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent"
+993,23,50,40,6/1/2017,4/23/2018,N,"Burn of third degree of unspecified foot, sequela"
+994,416,79,41,6/20/2017,6/20/2018,Y,"Spacecraft collision injuring occupant, subsequent encounter"
+995,115,88,42,2/12/2017,6/3/2018,N,"Dislocation of unspecified interphalangeal joint of unspecified thumb, sequela"
+996,869,83,43,2/24/2017,6/13/2018,Y,"Other diseases of mediastinum, not elsewhere classified"
+997,666,68,44,3/29/2017,1/26/2018,N,"Displaced avulsion fracture of tuberosity of left calcaneus, sequela"
+998,648,47,45,8/17/2017,5/27/2018,N,Contusion and laceration of right cerebrum with loss of consciousness of 6 hours to 24 hours
+999,21,10,46,2/17/2017,9/29/2018,N,"Underdosing of methadone, sequela"

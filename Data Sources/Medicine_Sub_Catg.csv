@@ -1,0 +1,51 @@
+Med_Sub_Ref_No,Med_Catg_Code,Name,ManufactDate,ExpiryDate,ModifiedDate
+1,1,"Avobenzone, Octisalate, Octocrylene and Oxybenzone",8/19/2016,11/23/2019,4/26/2018
+2,1,Psyllium Husk,4/12/2016,7/2/2019,4/26/2018
+3,1,Tamsulosin hydrochloride,4/13/2016,7/17/2020,4/26/2018
+4,4,POTASSIUM CHLORATE,4/8/2016,3/6/2020,4/26/2018
+5,4,Trichoderma harzianam,7/10/2015,4/6/2020,4/26/2018
+6,2,ALLOPURINOL,1/2/2017,11/17/2019,4/26/2018
+7,3,PAMIDRONATE DISODIUM,9/17/2016,5/31/2019,4/26/2018
+8,6,Grama Grass,5/15/2015,6/11/2019,4/26/2018
+9,11,Midazolam hydrochloride,3/7/2015,2/1/2020,4/26/2018
+10,10,"apium graveolens, salvia officinalis",11/15/2015,10/22/2019,4/26/2018
+11,8,LEVOFLOXACIN,10/7/2016,8/13/2020,4/26/2018
+12,6,nilotinib,8/8/2015,4/30/2020,4/26/2018
+13,9,OCTINOXATE,2/5/2015,8/2/2019,4/26/2018
+14,5,Acetaminophen,4/14/2015,10/23/2020,4/26/2018
+15,5,magnesium hydroxide,12/30/2015,1/27/2020,4/26/2018
+16,7,Ethambutol hydrochloride,12/26/2016,2/14/2019,4/26/2018
+17,12,Methylphenidate Hydrochloride,12/23/2015,6/3/2020,4/26/2018
+18,2,Insulin lispro,3/4/2016,4/30/2019,4/26/2018
+19,2,Doxazosin Mesylate,6/9/2015,5/2/2020,4/26/2018
+20,2,Azithromycin Monohydrate,10/14/2016,8/24/2019,4/26/2018
+21,3,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl and Guaifenesin",1/23/2017,7/10/2019,4/26/2018
+22,7,Triclosan,2/2/2015,4/20/2019,4/26/2018
+23,7,"Abies Nigra, Antimonium Crudum, Asafoetida, Baptisia Tinctoria, Borax, Candida Albicans, Lachesis Mutus, Phosphoricum Acidum, Phytolacca Decandra, Pulsatilla, Sticta Pulmonaria, Sulphur, Thuja Occidentalis",10/3/2015,10/10/2019,4/26/2018
+24,7,Leeks,8/17/2016,7/4/2019,4/26/2018
+25,10,dextromethorphan polistirex,7/26/2016,6/20/2019,4/26/2018
+26,9,Benzocaine,2/29/2016,4/9/2020,4/26/2018
+27,5,Lansoprazole,3/12/2016,11/25/2020,4/26/2018
+28,5,Hydrochlorothiazide,6/27/2016,6/7/2019,4/26/2018
+29,3,amlodipine besylate and valsartan,1/20/2016,4/12/2020,4/26/2018
+30,8,Hydroxyzine,3/27/2015,2/14/2020,4/26/2018
+31,8,Thuja e summ. 6 Special Order,3/24/2016,1/28/2020,4/26/2018
+32,8,ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY,8/31/2015,12/16/2019,4/26/2018
+33,12,UNDECYLENIC ACID,10/8/2015,9/8/2019,4/26/2018
+34,12,Promethazine Hydrochloride and Codeine Phosphate,5/12/2016,11/8/2019,4/26/2018
+35,12,Salicylic Acid,12/17/2016,6/11/2019,4/26/2018
+36,1,phentermine hydrochloride,5/15/2015,9/24/2020,4/26/2018
+37,1,Treatment Set TS332256,8/12/2015,4/18/2019,4/26/2018
+38,1,oxycodone hydrochloride and acetaminophen,1/26/2015,8/26/2019,4/26/2018
+39,11,"Agaricus musc., Arsenicum alb., Aur. met., Berber. aqui., Caladium seguinum, Candida albicans, Cantharis, Conium, Graphites, Helonias dioica, Hydrastis, Kali carb., Kreosotum, Lycopodium, Merc. viv., Murex purpurea, Nat. mur., Nitricum ac., Pulsatilla, Rhus toxicodendron, Sepia, Sulphur, Tarentula hispana, Thuja occ., Zinc. met., Apis mel., Hamamelis",12/21/2016,9/15/2020,4/26/2018
+40,11,omeprazole,9/5/2015,4/19/2020,4/26/2018
+41,11,Methoxsalen,10/19/2016,11/5/2020,4/26/2018
+42,6,Octinoxate and Titanium Dioxide,12/2/2016,4/4/2020,4/26/2018
+43,6,SULINDAC,10/5/2016,9/6/2019,4/26/2018
+44,8,Amiodarone Hydrochloride,10/19/2016,1/12/2020,4/26/2018
+45,3,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Phenylephrine Hydrochloride",1/6/2017,10/31/2019,4/26/2018
+46,4,Stannum 5,1/27/2016,11/26/2019,4/26/2018
+47,4,Artemisia tridentata,12/20/2016,4/24/2019,4/26/2018
+48,11,rabeprazole sodium,10/2/2015,2/10/2019,4/26/2018
+49,10,LIDOCAINE HYDROCHLORIDE,6/25/2015,1/1/2020,4/26/2018
+50,12,Morphine Sulfate,1/1/2017,8/18/2019,4/26/2018
